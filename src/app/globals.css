@@ -1,0 +1,231 @@
+@import "tailwindcss";
+
+/* ================================
+   SHADOWCORE THEME (Tailwind v4)
+   Dark Mode Only - Shadow Operator Aesthetic
+   ================================ */
+@theme {
+  /* Reset default colors */
+  --color-*: initial;
+
+  /* Backgrounds - Pure Black Foundation */
+  --color-bg-primary: oklch(0.00 0.00 0);
+  --color-bg-secondary: oklch(0.06 0.00 0);
+  --color-bg-tertiary: oklch(0.10 0.00 0);
+  --color-bg-elevated: oklch(0.13 0.00 0);
+
+  /* Semantic Colors */
+  --color-background: oklch(0.00 0.00 0);
+  --color-foreground: oklch(0.98 0.00 0);
+  --color-card: oklch(0.10 0.00 0);
+  --color-card-foreground: oklch(0.95 0.00 0);
+  --color-popover: oklch(0.10 0.00 0);
+  --color-popover-foreground: oklch(0.95 0.00 0);
+
+  /* Primary - Neon Green */
+  --color-primary: oklch(0.80 0.20 155);
+  --color-primary-foreground: oklch(0.10 0.00 0);
+
+  /* Secondary - Electric Blue */
+  --color-secondary: oklch(0.55 0.20 260);
+  --color-secondary-foreground: oklch(0.98 0.00 0);
+
+  /* Accent */
+  --color-accent: oklch(0.25 0.02 0);
+  --color-accent-foreground: oklch(0.95 0.00 0);
+
+  /* Warning - Amber */
+  --color-warning: oklch(0.80 0.15 85);
+  --color-warning-foreground: oklch(0.10 0.00 0);
+
+  /* Destructive - Red */
+  --color-destructive: oklch(0.65 0.25 15);
+  --color-destructive-foreground: oklch(0.98 0.00 0);
+
+  /* Success - Green */
+  --color-success: oklch(0.70 0.18 145);
+  --color-success-foreground: oklch(0.10 0.00 0);
+
+  /* Text */
+  --color-muted: oklch(0.25 0.02 0);
+  --color-muted-foreground: oklch(0.55 0.00 0);
+
+  /* Borders */
+  --color-border: oklch(0.22 0.00 0);
+  --color-input: oklch(0.22 0.00 0);
+  --color-ring: oklch(0.80 0.20 155);
+
+  /* Module-Specific Colors */
+  --color-synthesio: oklch(0.70 0.15 200);
+  --color-ghostwrite: oklch(0.65 0.20 290);
+  --color-flowy: oklch(0.70 0.18 145);
+
+  /* Typography */
+  --font-sans: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", "Cascadia Code", Consolas, monospace;
+
+  /* Border Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.375rem;
+  --radius-lg: 0.5rem;
+  --radius-xl: 0.75rem;
+  --radius-2xl: 1rem;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.4);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.4), 0 2px 4px -2px rgb(0 0 0 / 0.3);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.4), 0 4px 6px -4px rgb(0 0 0 / 0.3);
+  --shadow-glow-primary: 0 0 20px oklch(0.80 0.20 155 / 0.3);
+  --shadow-glow-secondary: 0 0 20px oklch(0.55 0.20 260 / 0.3);
+
+  /* Animations */
+  --animate-fade-in: fade-in 0.2s ease-out;
+  --animate-fade-out: fade-out 0.2s ease-out;
+  --animate-slide-up: slide-up 0.3s ease-out;
+  --animate-slide-down: slide-down 0.3s ease-out;
+  --animate-pulse-glow: pulse-glow 2s ease-in-out infinite;
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes fade-out {
+    from { opacity: 1; }
+    to { opacity: 0; }
+  }
+
+  @keyframes slide-up {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes slide-down {
+    from { opacity: 0; transform: translateY(-8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes pulse-glow {
+    0%, 100% { box-shadow: 0 0 20px oklch(0.80 0.20 155 / 0.2); }
+    50% { box-shadow: 0 0 30px oklch(0.80 0.20 155 / 0.4); }
+  }
+}
+
+/* ================================
+   BASE STYLES
+   ================================ */
+@layer base {
+  html {
+    color-scheme: dark;
+  }
+
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    font-feature-settings: "rlig" 1, "calt" 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Scrollbar styling */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: var(--color-bg-secondary);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-border);
+    border-radius: var(--radius-full);
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-muted-foreground);
+  }
+
+  /* Focus styles */
+  *:focus-visible {
+    outline: 2px solid var(--color-ring);
+    outline-offset: 2px;
+  }
+
+  /* Selection */
+  ::selection {
+    background: oklch(0.80 0.20 155 / 0.3);
+    color: var(--color-foreground);
+  }
+}
+
+/* ================================
+   COMPONENT UTILITIES
+   ================================ */
+@layer components {
+  /* Glass effect */
+  .glass {
+    background: oklch(0.10 0.00 0 / 0.8);
+    backdrop-filter: blur(12px);
+    border: 1px solid oklch(0.22 0.00 0 / 0.5);
+  }
+
+  /* Glow effects */
+  .glow-primary {
+    box-shadow: var(--shadow-glow-primary);
+  }
+
+  .glow-secondary {
+    box-shadow: var(--shadow-glow-secondary);
+  }
+
+  /* Module badges */
+  .badge-synthesio {
+    background: oklch(0.70 0.15 200 / 0.15);
+    color: var(--color-synthesio);
+    border: 1px solid var(--color-synthesio);
+  }
+
+  .badge-ghostwrite {
+    background: oklch(0.65 0.20 290 / 0.15);
+    color: var(--color-ghostwrite);
+    border: 1px solid var(--color-ghostwrite);
+  }
+
+  .badge-flowy {
+    background: oklch(0.70 0.18 145 / 0.15);
+    color: var(--color-flowy);
+    border: 1px solid var(--color-flowy);
+  }
+}
+
+/* ================================
+   ANIMATION UTILITIES
+   ================================ */
+@layer utilities {
+  .animate-in {
+    animation: var(--animate-fade-in);
+  }
+
+  .animate-out {
+    animation: var(--animate-fade-out);
+  }
+
+  .animate-slide-up {
+    animation: var(--animate-slide-up);
+  }
+
+  .animate-slide-down {
+    animation: var(--animate-slide-down);
+  }
+
+  .animate-pulse-glow {
+    animation: var(--animate-pulse-glow);
+  }
+}
