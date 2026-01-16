@@ -1,0 +1,2650 @@
+# tactiq.io free youtube transcript
+# [DAY 4] This Boring Strategy Made $57,000,000
+# https://www.youtube.com/watch/mZC1jGCunr8
+
+00:00:00.000 All right. Well, you guys are in for a
+00:00:02.080 treat today because you guys are going
+00:00:04.000 to see [sighs]
+00:00:05.920 probably the best shadow operator to
+00:00:08.080 have ever existed. Uh, and he is going
+00:00:10.400 to be doing a presentation and breaking
+00:00:12.000 down literally hundreds of millions of
+00:00:14.400 dollars worth of game, everything that
+00:00:16.160 he's collected over the last two decades
+00:00:17.840 that he has been doing this. Uh, you
+00:00:20.240 know, it's such an incredible uh
+00:00:22.640 opportunity for you guys to sit here and
+00:00:24.560 uh learn from truly a living legend. So,
+00:00:28.400 uh, you know, with all that being said,
+00:00:29.840 I know that we have a lot to get through
+00:00:32.079 here today. Uh, so I'm going to waste no
+00:00:34.000 time and, uh, hand it over to, uh, Mr.
+00:00:37.040 Jason Flinland.
+00:00:38.800 >> Awesome.
+00:00:40.320 Thank you, sir.
+00:00:42.879 >> All right, boys and girls, you ready?
+00:00:45.520 Give me some love in the chat if you
+00:00:46.960 are. We're going to get queued up here.
+00:00:48.399 We're going to get ready to rock and
+00:00:49.520 roll. Um, and if you're good to go, put
+00:00:53.039 it in the chat. And I got the got the Is
+00:00:55.120 this the live chat right over here?
+00:00:56.480 Perfect. It's awesome. Uh, spam some
+00:00:59.120 love in the chat for me real quick so I
+00:01:00.719 can see it. Let's go. My name is Jason
+00:01:02.399 Flatlight. I'm going to take you on a
+00:01:03.920 crazy journey today. We're going to go a
+00:01:05.760 little bit higher in the clouds and then
+00:01:07.360 we're going to zoom down and swoop in at
+00:01:08.880 the end. Now, before we get there
+00:01:10.400 though, it's going to be you and me on
+00:01:11.840 the screen for a few minutes and then
+00:01:13.280 I'm going to show you some slides. But I
+00:01:15.119 wanted to start something today uh very
+00:01:17.200 heartfelt, very personal because if
+00:01:19.280 you've known me by now, we do the live
+00:01:21.600 Q&amp;As's at the end. You know, I'm pretty
+00:01:23.840 I speak what's on my mind and I show up
+00:01:25.759 as much of me as I possibly can
+00:01:28.720 to really put what's at stake with what
+00:01:31.520 we are doing here. Um, let's talk about
+00:01:34.240 the limited time that we have here on
+00:01:36.320 Earth. And this is on my mind and in my
+00:01:39.040 heart because my father recently passed
+00:01:40.640 away uh Sunday, December 20th, 2025.
+00:01:44.799 And I had to fly from Los Angeles to
+00:01:47.680 Iowa to see him one week uh before he
+00:01:50.079 passed. I was able to get back there and
+00:01:52.640 spend some time with him. Um, he had
+00:01:55.360 taken a turn for the worst. He was, you
+00:01:57.439 know, it was getting to be his time, but
+00:01:59.200 it didn't seem to be that soon. But I
+00:02:01.759 was in Cape Town with Iman and the boys
+00:02:05.439 and I got the call. So, I went from Cape
+00:02:07.840 Town, got to LA, went to LA, went to
+00:02:10.720 Iowa to see my dad, uh, got back to LA
+00:02:13.280 and then I heard the news. And what I
+00:02:15.920 realize is looking back on it now as he
+00:02:18.720 held out, he waited for me to see me one
+00:02:21.200 last time before he passed on. And my
+00:02:25.200 dad was a bit of a local legend. He was
+00:02:27.200 a high school teacher and a wrestling
+00:02:30.080 coach. And then when he retired, he
+00:02:32.319 became a Hall of Fame mock trial coach.
+00:02:36.480 And I had seen my dad as a wrestling
+00:02:41.360 coach still beat the [ __ ] out of these
+00:02:44.480 17 and 18 year old kids when he is the
+00:02:46.560 age that I am now and he is as slow and
+00:02:48.560 as hobble as I am now. Uh and it was
+00:02:51.040 crazy. But my dad was a stud. He would
+00:02:53.040 run 10 miles every day from the time
+00:02:55.200 that I was three until the time that I
+00:02:57.040 was 25. I don't ever remember a time of
+00:02:59.920 him missing that. And when we would go
+00:03:02.319 out, somebody somewhere would stop us
+00:03:05.120 and they would tell me how much my dad
+00:03:07.440 had impacted them or helped them in some
+00:03:09.760 sort of meaningful way when I grew up.
+00:03:11.680 And a few kids said that he even saved
+00:03:13.599 their lives and that he gave them hope
+00:03:14.959 and that he gave them purpose. My dad
+00:03:17.120 was a huge believer in self-education. I
+00:03:19.680 would always see him studying something
+00:03:21.680 whether it was juggling or the numchucks
+00:03:24.080 or drawing or Japanese calligraphy. Uh
+00:03:27.280 when I was 18, I was in a very bad
+00:03:30.720 state. I was depressed. I had uh panic
+00:03:33.680 attacks that I suffered from on a daily
+00:03:35.360 basis. I had tried to go to university
+00:03:37.680 at Iowa State, and I was getting good
+00:03:40.000 grades, but I just didn't feel right. Uh
+00:03:42.480 I was dealing with this trauma. My mom
+00:03:44.400 was going to prison. My mom and my dad
+00:03:46.080 had split up when I was young. And so I
+00:03:48.640 felt very alone. And that Easter
+00:03:50.560 weekend, I decided to drop out of
+00:03:52.239 school. I took two storage bins cuz
+00:03:54.480 that's all I owned at the time. And I
+00:03:56.239 moved back into my dad's apartment
+00:03:57.760 without even asking. And the next day,
+00:03:59.760 we're going to Easter and we're driving
+00:04:02.000 to see my grandma. My dad turns to me
+00:04:03.760 and he says, &quot;When are you going to go
+00:04:04.959 back to school?&quot; And I said to him, &quot;I'm
+00:04:07.439 not.&quot; And he just nodded. And then we
+00:04:10.080 never ever spoke about it again. And
+00:04:12.080 then I lived with him in this tiny
+00:04:13.680 little apartment in this really shitty
+00:04:16.000 area uh for the next several years. Uh
+00:04:19.279 when I turned 20, I became a monk, a
+00:04:21.680 Hari Krishna monk. And my dad just
+00:04:23.759 watched me and he thought I was probably
+00:04:25.199 insane and crazy. But you know what? He
+00:04:26.800 never said a word about it. I'd wake up
+00:04:28.720 in the morning and I'd chant and I'd
+00:04:30.160 pray and I'd do these elaborate rituals
+00:04:32.080 and my dad had to like step over me
+00:04:33.759 because the place we were living in was
+00:04:35.280 so small. I wrote, I recorded and
+00:04:37.600 produced a rap album in this apartment
+00:04:39.440 that I lived in with my dad. And again,
+00:04:41.520 uh, he would just watch me and he
+00:04:42.880 wouldn't say anything about it. But then
+00:04:44.880 when I started doing shows locally, him
+00:04:47.120 and my stepmother would come and they
+00:04:48.960 would show up to these shows and watch
+00:04:50.320 me perform. I started my first business
+00:04:53.199 in that apartment
+00:04:55.440 and that was a business that I would
+00:04:57.440 grow to many millions of dollars and it
+00:04:59.840 was the foundation for what my business
+00:05:01.919 has become today. When I visited my dad
+00:05:04.479 for the last time in a sudden moment of
+00:05:06.160 lucidity, he turned to me and he said,
+00:05:07.440 &quot;Son, I am proud of you. I'm so proud of
+00:05:10.400 who you are. I'm so proud of what you've
+00:05:12.000 done.&quot; And he had said similar things
+00:05:14.160 like that to me uh before, but I never
+00:05:16.479 heard him say it with such conviction as
+00:05:19.759 he said it to me that day. Um and man,
+00:05:23.440 of everything he loved in life, he loved
+00:05:25.039 me most. And so if we could put the
+00:05:28.320 slides on the screen now. With that
+00:05:29.919 said,
+00:05:32.080 I would like to dedicate this
+00:05:34.800 presentation to that man today, my
+00:05:37.600 father. And I would like to offer this
+00:05:40.160 as a tribute to him. My dad taught me
+00:05:43.360 how to teach. He taught me how to coach.
+00:05:45.520 He did everything he could to shape me
+00:05:47.919 into the man that I am today. And now it
+00:05:50.479 is my turn to pass this wisdom on to you
+00:05:54.080 to help you like he helped me to help
+00:05:56.560 you achieve success. And hopefully
+00:05:58.720 hopefully my friend not just financial
+00:06:00.560 success because that's just the
+00:06:02.160 beginning of it. It's an important piece
+00:06:04.880 but the real value comes when you reach
+00:06:06.800 that level of financial autonomy and you
+00:06:09.199 can choose how you live your life and
+00:06:12.160 that's the real mark of success to live
+00:06:14.080 your life in a way that can make the
+00:06:15.440 ones you love proud of who you are. And
+00:06:18.639 my goal is to help contribute to that in
+00:06:20.560 whatever way possible. So I channel
+00:06:22.319 these very strong and very heavy
+00:06:24.240 emotions that I've been going through.
+00:06:26.880 And I put my heart into this today to
+00:06:29.440 give you my Alevel best. And that's what
+00:06:33.120 you're getting from me. And what I want
+00:06:34.960 in return is your attention. And I want
+00:06:36.960 your sincerity. Attention and sincerity.
+00:06:39.280 Can you give that to me? I hope so.
+00:06:41.759 Because if I show you anything today
+00:06:43.680 that can resonate with you, my wish is
+00:06:45.759 that you grab on to it, that you use it,
+00:06:47.680 that you do your very best to extract
+00:06:49.600 the most value of it possible. And if
+00:06:53.440 you're cool like that, why don't you
+00:06:55.199 drop me a hell yes in the chat right
+00:06:57.039 now? Put it in the chat right now. Let's
+00:06:59.039 Let's go. Let's go. All right. Now, on
+00:07:02.160 to business.
+00:07:04.240 I have three insane exclusive bonuses
+00:07:06.960 I'm going to offer at the end of my
+00:07:08.720 presentation here today. They are only
+00:07:11.280 available why we are here live today.
+00:07:14.240 They are crazy and only something that I
+00:07:17.120 could give you because I am probably the
+00:07:19.360 most successful shadow operator on the
+00:07:21.280 planet when it comes to the model that
+00:07:22.720 we've been jamming on the last four
+00:07:24.160 days. Plus,
+00:07:26.080 obviously, today I'm going to show you
+00:07:27.360 some legit secrets for free. Would you
+00:07:28.960 like to know what these secrets are that
+00:07:30.639 you're going to get by the end of our
+00:07:32.160 presentation today? Well, we're going to
+00:07:34.720 talk about why smaller focused audiences
+00:07:36.720 routinely out earn celebrity followings
+00:07:38.560 and how to tap into a hidden pocket of a
+00:07:40.560 thousand true fans inside any creator's
+00:07:43.280 base. I'm going to talk to you about the
+00:07:44.720 1% conversion rule. How a single yes can
+00:07:47.199 permanently change your income
+00:07:48.639 trajectory. I'm going to talk about risk
+00:07:51.039 removal, not hype, not pressure, not
+00:07:53.280 promises. Why risk removal is the real
+00:07:55.520 conversion engine. I'm going to talk
+00:07:56.960 about the rejection frame that dissolves
+00:07:59.360 outreach fear. You're going to love
+00:08:01.680 that. I'm going to talk about how a $9.8
+00:08:03.840 million launch in 8 days crushed
+00:08:05.680 competitors by over $7 million using my
+00:08:08.319 favorite shadow operator framework,
+00:08:10.240 which is packaging, positioning, and
+00:08:12.560 leverage. We'll break that down. I'm
+00:08:14.160 going to talk about the time money
+00:08:15.520 trade-off and how to compre compress
+00:08:17.520 months of trial and error into days or
+00:08:19.280 even hours. We're going to go into the
+00:08:21.360 infrastructure shift that removes
+00:08:22.800 payment friction entirely, automatic
+00:08:24.879 splits and fulfillment, and why this
+00:08:26.479 quietly multiplies deal velocity. I talk
+00:08:29.120 to you about why wealth scales better in
+00:08:31.039 the shadows and how to control the deal,
+00:08:33.919 not the spotlight. In the exact moment
+00:08:36.159 where leverage compounds, how one
+00:08:37.679 successful partnership attracts the
+00:08:39.120 next, and why growth becomes exponential
+00:08:41.440 in this situation, not linear. I'm going
+00:08:44.000 to go over this and a whole bunch more
+00:08:46.160 and we're going to try to do it as fast
+00:08:47.440 as we can. You ready to go? If so,
+00:08:49.760 shadow operator, put it in the chat
+00:08:51.440 right now. And we got to jam because
+00:08:55.040 this is way bigger than Instagram.
+00:08:58.320 But we're going to start there because
+00:08:59.519 it's the lowest hanging fruit on the
+00:09:02.000 planet. Right now, there are over 78
+00:09:04.720 million content creators on Instagram
+00:09:07.040 that loosely fit the criteria of who I
+00:09:09.279 would suggest you approach. And within
+00:09:11.200 that 78 million content creators,
+00:09:13.279 there's 41 million I am 100% right fit
+00:09:17.440 or certain that are candidates for you
+00:09:19.920 as a shadow operator. they meet the
+00:09:21.839 exact criteria of someone Iman and I
+00:09:23.760 would tell you to approach with your
+00:09:25.360 risk-free deal to help them monetize
+00:09:27.120 their audience to serve their community
+00:09:28.640 at the highest level and and get your
+00:09:31.279 fair share for bringing in massive value
+00:09:34.000 to these creators. And now let me give
+00:09:35.680 you some context here because I've been
+00:09:37.360 doing this damn near 20 years and I've
+00:09:39.600 generated over 250 million in sales and
+00:09:42.320 I've influenced some of the biggest
+00:09:43.600 names across multiple industries. So
+00:09:45.839 when I tell you something, it's not
+00:09:47.519 theory. Everything I discuss with you
+00:09:49.519 today comes from pattern recognition in
+00:09:52.160 the trenches. Here's what I know. If you
+00:09:54.560 want to increase the value of something,
+00:09:56.640 anything, doesn't matter what it is. If
+00:09:58.160 you want to increase the value of
+00:09:59.440 something, you increase demand while
+00:10:02.399 decreasing supply. Every single major
+00:10:05.600 launch that I've been a part of, and
+00:10:07.040 I've been a part of record-breaking
+00:10:08.480 launches from this one, the $9.8 8
+00:10:10.320 million launch in 8 days. That was a
+00:10:12.080 shadow operator launch by the way. Uh to
+00:10:14.399 the big daddy, the $57.9 million launch
+00:10:16.880 in 226 days from scratch, which was also
+00:10:19.440 a shadow operator. We will break that
+00:10:21.440 down. The number one thing that I look
+00:10:23.440 for when it comes to leverage in these
+00:10:25.440 deals is this massive demand, minimum
+00:10:29.839 supply. And right now we've got 78
+00:10:33.360 million plus microcreators that are
+00:10:35.760 desperate
+00:10:37.279 and demanding for what you can offer as
+00:10:41.120 a shadow operator. But the supply
+00:10:45.760 the supply of people like you shadow
+00:10:48.800 operators who know what they're doing
+00:10:50.800 who are disciplined enough to stay with
+00:10:52.800 us for 4 days of a challenge.
+00:10:56.720 Think about that. Think about that
+00:10:58.079 supply. So you are the audience within
+00:11:00.800 the audience within the audience of
+00:11:02.399 people who started with us. It's slim.
+00:11:04.800 So the supply of true blue shadow
+00:11:06.800 operators is very small and the demand
+00:11:09.600 is massive. See here's the reality. Most
+00:11:12.240 people they don't invest in their future
+00:11:15.040 self. They won't follow proven
+00:11:17.600 structural advice. Most people even
+00:11:20.800 don't even know this system even exists.
+00:11:23.760 So, you should count your blessings for
+00:11:25.920 just being aware.
+00:11:28.800 We're on day four right now. We started
+00:11:30.640 with over 80,000 people on the first
+00:11:32.480 day. There's way less than 50,000 of you
+00:11:34.959 still here. And that's what success
+00:11:37.200 actually looks like
+00:11:39.920 showing up on a regular basis. So, if
+00:11:42.079 you're here, congratulations. You are
+00:11:43.920 doing the things that you need to do to
+00:11:45.360 be successful. Now, not all of you have
+00:11:47.519 invested yet, though I'm going to plead
+00:11:49.680 my case on why you should with some
+00:11:51.040 killer bonuses that but but the point is
+00:11:52.959 this. The supply for what you do is
+00:11:55.040 minuscule.
+00:11:56.880 It's a drop in the ocean. Yet, the
+00:11:59.120 demand the demand is even bigger than
+00:12:02.640 just you and the microcreators that
+00:12:04.079 you'll approach. The real value comes
+00:12:06.399 from the audiences that these creators
+00:12:08.240 are trying to serve. So, 78 million
+00:12:11.760 times many millions more. Because here's
+00:12:15.519 what these microcreators have done.
+00:12:17.040 They've gotten their audience so close
+00:12:18.959 to what the audience wants without
+00:12:21.200 getting them all the way there. Uh if
+00:12:24.079 we're talking analogies, this is like
+00:12:25.680 driving the ball down to the one yard
+00:12:27.440 line in football and then not putting it
+00:12:29.920 into the end zone as the clock expires.
+00:12:32.880 Guess what? This gets you exactly zero
+00:12:35.279 points. Now, I train sales
+00:12:37.519 organizations, a lot of corporate sales
+00:12:39.440 organizations. They pay me large amounts
+00:12:41.120 of money. I've trained uh nine figure
+00:12:43.040 sales organizations sometimes even by
+00:12:45.040 the way and I always tell them the same
+00:12:46.399 thing. I say a cell that is 99% closed
+00:12:49.200 is worth exactly 0.
+00:12:52.079 A fully grown crop teeming with food
+00:12:54.639 will rot and decay into nothing if it
+00:12:56.880 isn't picked and it if it isn't
+00:12:58.800 harvested. This is why you should study
+00:13:01.200 how money moves. you're going to see uh
+00:13:04.079 people who make a lot of money are often
+00:13:06.800 the ones who stand at the end of the
+00:13:08.240 chain from when supply and demand start
+00:13:11.360 and where money transacts at the end. So
+00:13:13.920 all of these audiences that these
+00:13:15.440 microcreators can reach, they are this
+00:13:17.920 close to being sold something if only
+00:13:20.800 somebody would put something in front of
+00:13:22.240 them to buy. And if you're at that end
+00:13:25.120 of that chain, you deserve this deal
+00:13:27.600 flow, right? You deserve the revenue
+00:13:29.839 that's at stake. So operators get in at
+00:13:33.360 the end,
+00:13:35.200 they help the money move and they get
+00:13:37.839 rewarded. You feel that? They make
+00:13:40.480 massive amounts of money as a result. So
+00:13:43.040 my real estate agent, she's uh working
+00:13:44.800 with me to sell a multi-million dollar
+00:13:46.480 property that I own. And she gets 3% of
+00:13:49.839 the sale when it happens. Why? Because
+00:13:52.959 she can do the one thing that's really
+00:13:54.720 important. Put it in the end zone. Close
+00:13:58.160 the deal. Right? Some of the richest
+00:14:00.000 people in the world are fund managers. I
+00:14:01.920 live near some some of them. And these
+00:14:03.600 are people you have never heard of. They
+00:14:05.040 are true shadow operators. They are
+00:14:06.720 silent billionaires. And they get rich
+00:14:08.720 because they can get people to give them
+00:14:10.639 money to invest. And even if these fund
+00:14:13.760 managers lose their clients money, they
+00:14:15.839 still can become billionaires simply
+00:14:18.079 because they're in the intersection
+00:14:19.760 where money moves. You want more money?
+00:14:22.880 Get in the intersection of where money
+00:14:24.560 moves. They are there. are at the close
+00:14:27.040 to the final step where the money lands.
+00:14:31.680 I'll talk more about the psychology that
+00:14:34.399 you need to step into to truly own this
+00:14:36.800 position and to feel good about it and
+00:14:39.920 to unlock leverage that's actually
+00:14:41.920 easier
+00:14:43.440 than building an audience which the
+00:14:45.040 microcreators done. We'll talk about
+00:14:46.639 that. We'll talk about how uh it's
+00:14:48.720 easier than all the work that the
+00:14:51.760 microcreators have put in. So, not only
+00:14:53.600 just to acquire the audience, but to
+00:14:54.959 build a relationship with that audience.
+00:14:57.920 Okay.
+00:14:59.760 But what you do is more valuable even
+00:15:02.480 though it's easier.
+00:15:04.880 Isn't that interesting? So, you do
+00:15:06.800 provide more value even though you will
+00:15:08.880 have to put in a lot less effort and
+00:15:10.320 time to get that. Now, we'll get back to
+00:15:12.240 that in a second. Here's the point.
+00:15:13.680 These audience that these micro creators
+00:15:15.760 are serving are worse off by not having
+00:15:18.480 a properly structured product to invest
+00:15:20.800 in. Let me say that again. I re I want
+00:15:23.040 you to really step into this. They are
+00:15:25.120 worse off these audience these micros
+00:15:27.440 creators reach by not having a properly
+00:15:29.600 structured pro product to invest in. At
+00:15:32.240 least 2 to 10% of any audience [snorts]
+00:15:35.600 would prefer a paid solution that was
+00:15:38.079 properly structured over free
+00:15:40.000 information that's unstructured and full
+00:15:41.760 of gaps. Let me put it this way. There
+00:15:44.079 are people just like me who follow micro
+00:15:46.639 influencers all over the world. We're
+00:15:49.519 the type of people who pay others to
+00:15:51.199 change our oil, pay others to cook our
+00:15:53.440 food, pay others to assemble our
+00:15:55.360 furniture, pay others to hang our
+00:15:57.279 Christmas lights, uh pay others to do
+00:15:59.759 the things that would cost us more in
+00:16:02.720 time, which we don't have, than it does
+00:16:05.440 in money, which we do have. And this is
+00:16:09.440 who you are going to serve. You're going
+00:16:12.320 to give them something they wish they
+00:16:14.560 could have invested in sooner. You're
+00:16:16.320 going to help the microcreator deliver
+00:16:18.079 that. You're going to give them uh
+00:16:20.160 you're going to give it to them using
+00:16:22.399 proprietary tools like Ghostriter and
+00:16:25.440 like Synthesize. And we'll break that
+00:16:27.199 down more in a bit, right? So, they're
+00:16:29.680 going to get the most value from it. And
+00:16:32.399 you're going to help the microcreator
+00:16:34.160 truly level up their impact and make
+00:16:36.880 their life easier and get that financial
+00:16:39.600 monkey off their back because they need
+00:16:41.120 to make money to keep going. So, you're
+00:16:42.720 going to help them do that while giving
+00:16:44.720 the portion of their audience who is
+00:16:46.560 desperate to invest the opportunity to
+00:16:48.639 buy something greater than the money
+00:16:50.800 they're currently holding in their
+00:16:52.079 hands. So, here's my call to action to
+00:16:54.880 you right now, right here. I want you to
+00:16:57.600 drop shadow operator in the chat if
+00:16:59.920 you're up to that task of doing that,
+00:17:02.639 helping the microcreator
+00:17:05.520 finally put a structured
+00:17:08.480 product to that portion of the audience
+00:17:11.119 who is dying to buy it. Are you up for
+00:17:13.839 that task? Shadow operator in the chat
+00:17:16.160 if you are. All right. There are 41
+00:17:18.799 million microcreators within that 78
+00:17:22.079 million uh subsegment who absolutely
+00:17:25.280 desperately need you. They just don't
+00:17:27.520 know it yet. There are 41 million
+00:17:30.799 microcreators hurting every single day
+00:17:33.039 that you delay in reaching out to them.
+00:17:37.520 There are 41 million microcreators that
+00:17:39.679 represent billions of dollars in shadow
+00:17:41.679 operating possibility. I said billions
+00:17:44.320 with a B. Somebody's going to step up
+00:17:46.400 and claim it. Why not you? Now, if it's
+00:17:50.160 going to be you, type shadow operator in
+00:17:52.240 the chat cuz I want you committed here,
+00:17:54.000 right? I don't do this just for fun. I
+00:17:56.480 do this for impact.
+00:17:59.280 And the impact happens if I can get you
+00:18:01.520 to turn what we're saying into a reality
+00:18:05.600 that improves your life. Now, here's the
+00:18:07.039 best part of all of this. Access to
+00:18:08.320 these microcreators has been
+00:18:10.240 democratized, my friend. Democratized.
+00:18:13.440 it is now easier than ever to reach out
+00:18:15.280 to them. Let me explain. See, when I
+00:18:17.520 started digital marketing back in the
+00:18:19.679 ancient year of 2007,
+00:18:22.880 uh the term influencer didn't even
+00:18:25.679 exist. Social media of choice was
+00:18:28.799 MySpace and pretty much only bands,
+00:18:31.520 musicians, and like angsty goth teenage
+00:18:34.080 girls use that platform. Uh if you
+00:18:36.160 wanted to approach somebody of
+00:18:38.000 influence, like a real influential
+00:18:41.039 person, a creator if you will, there was
+00:18:43.440 no easy way to do it. It just was not a
+00:18:46.960 thing that was simple. I would find
+00:18:49.440 mailing addresses and I would send
+00:18:51.840 handwritten notes through the mail just
+00:18:53.760 to get uh influential people's
+00:18:55.760 attention. Either that or I would do
+00:18:58.000 these elaborate Google searches and I
+00:18:59.840 would pay fees to get people's personal
+00:19:02.400 phone numbers. I would cold call them. I
+00:19:05.280 would try to find their email address
+00:19:06.960 and I would send them a pitch and I
+00:19:08.559 would hope that they would respond. And
+00:19:10.480 there were so few creators in the space
+00:19:13.520 that you could even reach out to. So
+00:19:16.240 there was few of them. They were hard to
+00:19:18.320 reach out to them. And if you did reach
+00:19:20.480 out to them, it was just kind of weird
+00:19:24.559 um because we were all living through
+00:19:27.039 the platform of what social media was
+00:19:29.039 for the first time. Social media was a
+00:19:30.960 new thing to everybody collectively at
+00:19:32.799 the time and nobody knew what to do with
+00:19:34.880 it. There was no normal yet. These days,
+00:19:39.520 I have people with 10 million to hund00
+00:19:42.559 million a year businesses regularly
+00:19:45.440 sliding into little Jason Fladland's
+00:19:47.360 DMs. Right? On the flip side, when I
+00:19:50.320 need to contact somebody and I send them
+00:19:52.720 a text or I send them an email, they
+00:19:54.799 often respond slower than if I just send
+00:19:57.520 them a DM, which is insane. The DM is
+00:20:01.440 the new normal. The direct message is
+00:20:03.760 the new normal. And it's just as easy
+00:20:05.760 for you to access these microcreators as
+00:20:08.559 it would be to reach out to a friend.
+00:20:10.640 Now, here's the downside to that. If
+00:20:13.280 it's as easy for you, it's as easy for
+00:20:16.240 everybody.
+00:20:20.160 I get so much DM span that if I got paid
+00:20:22.559 a dollar per DM, I'd be richer than I
+00:20:24.480 already am. Uh, but you should never let
+00:20:27.120 noise stop you. If you have strategy,
+00:20:29.120 here's what I mean. If there's a
+00:20:30.880 thousand DMs being sent, but you have
+00:20:33.280 the proper strategy to send the one in a
+00:20:35.600 thousand that gets attention and gets a
+00:20:37.200 response, then it doesn't really matter
+00:20:39.039 how many other idiots are out there
+00:20:40.559 sending really shitty DMs. And over the
+00:20:42.720 last few days, we've broken down the
+00:20:44.400 strategy of what a really good DM looks
+00:20:46.400 like when you're approaching these
+00:20:48.080 microcreators. Now, we intentionally
+00:20:50.720 suggest you go after microcreators
+00:20:52.320 because they're not getting DMs like
+00:20:54.320 Iman or I am getting. Uh they're getting
+00:20:56.960 less than a dozen a week on average. And
+00:20:59.120 so, you don't need strategy. There isn't
+00:21:01.120 noise. But I also want you to use
+00:21:03.679 strategy on top of approaching people
+00:21:07.440 where you don't need to actually have
+00:21:09.520 much strategy to land your first deal.
+00:21:11.679 Now, do you remember what this was over
+00:21:13.840 the last four days of our training time?
+00:21:16.559 It starts not with an ask. It starts
+00:21:18.799 with a give. And not just any give
+00:21:20.960 either. A give that has personalization
+00:21:23.760 to the microcreator and comes with
+00:21:26.320 value. A give that also sets up the deal
+00:21:30.559 so it happens smoothly and easily. It's
+00:21:32.960 a whole strategy that some of the
+00:21:34.159 greatest marketing minds that you'll
+00:21:35.360 ever come across have developed.
+00:21:38.159 Besides, these microcreators, like I
+00:21:40.159 said, aren't getting hit up nearly as
+00:21:41.440 much as Iman or myself are. They get way
+00:21:43.520 less DMs, and they get almost no DMs
+00:21:45.520 that understand really good
+00:21:46.559 communication strategies like the ones
+00:21:47.919 that we have taught over the last couple
+00:21:49.120 of days, right? So, with 78 million
+00:21:51.679 microcreators
+00:21:53.520 out there and a really powerful give
+00:21:56.480 first strategy, don't you agree that the
+00:21:59.039 opportunity here is incredible
+00:22:01.600 to reach out with a give
+00:22:04.720 to all of these microcreators
+00:22:07.679 to help them take what they know, create
+00:22:10.480 a product with it, put in front of an
+00:22:12.080 audience, and then everybody wins. All
+00:22:14.720 right.
+00:22:17.200 Now, this gets exciting when you run it
+00:22:19.120 through the greatest equation that most
+00:22:20.720 people aren't even aware of when it
+00:22:23.360 comes to making money. Would you like to
+00:22:25.840 see this equation?
+00:22:28.640 If so, type shadow operator into the
+00:22:30.559 chat right now. We're going to cook,
+00:22:33.200 baby. Let me explain. Artificial
+00:22:35.520 intelligence is the single greatest
+00:22:36.960 invention to mankind.
+00:22:39.280 Maybe since fire, I think I would even
+00:22:42.960 put it on my tier list. Higher than
+00:22:45.039 fire. Higher than fire. I think AI is
+00:22:47.760 the greatest mankind invention until it
+00:22:49.679 overtakes us all and then the robots
+00:22:51.039 rule the world. But I think that's not
+00:22:52.240 for another couple thousand years,
+00:22:53.520 right? AI truly is science fiction come
+00:22:56.159 to life. You have a machine that is
+00:22:57.840 better than 99% of human beings at 99%
+00:23:00.799 of task. And you're in the adoption
+00:23:03.200 period where most people have no clue
+00:23:06.240 how to use it or how to leverage it. We
+00:23:09.679 call this massive opportunity, my
+00:23:11.919 friend. Now, I want you to notice we are
+00:23:14.400 not using AI to send out the messages to
+00:23:17.039 microcreators. No, no, no, no. Because
+00:23:19.200 AI is not very good at that. AI totally
+00:23:21.919 sucks at that actually. Uh, it'll make
+00:23:23.760 you sound like everybody else. And if
+00:23:25.440 you sound like everybody else when
+00:23:26.960 you're doing outreach, you might as well
+00:23:29.360 not even exist. So, we will still use
+00:23:32.640 human ingenuity to develop the best
+00:23:34.400 outreach to these microcreators. Now,
+00:23:36.720 here's how we use AI to assist us with
+00:23:39.840 it, which is we use AI to develop
+00:23:42.480 personalized game plans. So, when we
+00:23:45.440 reach out to these microcreators and we
+00:23:47.919 say, hey, listen, there's something I
+00:23:49.280 can help you with. Would you be
+00:23:50.640 interested in it? And they say yes, we
+00:23:52.640 give them a personalized detailed game
+00:23:54.960 plan. And this is what the AI creates
+00:23:56.720 for us. And this is what makes the AI
+00:23:58.720 super duper powerful because the
+00:24:00.640 specialized AI that we've developed has
+00:24:02.559 been trained specifically for the task
+00:24:04.400 of crunching a ton of data on a
+00:24:06.480 microcreators profile just like you're
+00:24:08.559 seeing on your screen right here and
+00:24:11.200 then extracts from that data the right
+00:24:13.679 key personal information related to them
+00:24:17.200 that is most likely to get the creator
+00:24:18.880 to respond positively to the DM you send
+00:24:20.880 them with their game plan. So you just
+00:24:22.799 need to get them interested in the game
+00:24:24.320 plan. They ask for it, you deliver it to
+00:24:26.720 them, and they say, &quot;Whoa, I now see the
+00:24:29.760 potential. If I partnered with this
+00:24:31.919 shadow operator, and they help me put
+00:24:34.559 together this product, I can see how my
+00:24:37.120 audience would buy it.&quot; Now, these
+00:24:39.200 personalized game plans, they used to
+00:24:40.559 take hours to create or thousands of
+00:24:42.720 dollars if you were to outsource it. And
+00:24:44.320 I'd recommend most of you should
+00:24:45.679 outsource it instead of create it
+00:24:46.960 yourself if you don't know how to create
+00:24:48.960 it. But now, you can do them in minutes.
+00:24:51.919 and they can be done better than what
+00:24:53.600 most humans can do if they had dozens of
+00:24:56.559 hours to do each game plan manually.
+00:25:00.960 Now, if you can't invest and monetize
+00:25:03.120 and this is your only option, this is
+00:25:04.799 still worth doing on your own, 100%. But
+00:25:08.080 if you're sold on the idea of shadow
+00:25:09.440 operating and you want to work with us,
+00:25:11.279 then use the AI that we've specifically
+00:25:13.520 developed to create these valuable
+00:25:15.840 things for free that you're giving to
+00:25:17.279 microcreators
+00:25:20.000 ahead of time. And the AI is now being
+00:25:22.559 used in clever fashion to create value
+00:25:24.159 in advance for free, which is normally
+00:25:26.880 not something you could do willy-nilly.
+00:25:28.960 What I mean by this is if you
+00:25:31.120 speculatively put forth at your own cost
+00:25:33.600 a game plan
+00:25:35.679 for each microcreator,
+00:25:38.640 there's still a strong likelihood that
+00:25:40.320 any individual creator is not going to
+00:25:42.000 say yes to it and close a deal with you.
+00:25:44.320 So, you can't just go out there to each
+00:25:45.600 micro creator and say, &quot;Here's your game
+00:25:46.720 plan. Here's your game plan. Here's your
+00:25:47.760 game plan. Here's your game plan. Here's
+00:25:48.799 your game plan.&quot;
+00:25:50.000 um even if you could develop them in
+00:25:51.840 seconds just like that because most of
+00:25:53.919 them are just not going to say yes when
+00:25:56.080 you cold outreach to them. That's just
+00:25:57.919 just the way the game works. We are
+00:26:00.159 playing a game of probabilities where
+00:26:02.480 you have to reach out to many
+00:26:03.919 microcreators
+00:26:05.600 because there are dozens or even
+00:26:07.279 hundreds of reasons why a microcreator
+00:26:09.200 won't say yes to your deal of you being
+00:26:11.919 their shadow operator. And pretty much
+00:26:14.799 none of these reasons have anything to
+00:26:17.679 do with you. Now, pay attention. This is
+00:26:19.679 a very important point because I think
+00:26:21.039 it's going to help you move forward and
+00:26:23.279 release a lot of friction that you're
+00:26:24.559 currently holding. Right? Listen, you
+00:26:27.360 could have the most fertile se soil on
+00:26:29.760 the entire planet with the best seed and
+00:26:32.640 you could be the best farmer to exist,
+00:26:34.960 but the weather can still destroy your
+00:26:38.159 crop. You can't control the weather. So,
+00:26:41.919 you counteract this uncertainty with
+00:26:44.000 quantity.
+00:26:46.000 And there's a saying that sometimes
+00:26:47.360 quantity takes on its own quality. What
+00:26:49.919 I mean by that is in the past you'd have
+00:26:52.720 to be ultra strategic and really
+00:26:55.200 intentional to create these game plans
+00:26:57.520 because you could only create a couple
+00:26:59.520 at a time.
+00:27:01.520 And you'd have to do it with the
+00:27:02.880 microcreators that you think would have
+00:27:04.640 the highest likelihood of saying yes
+00:27:06.720 because it's going to be a lot of work
+00:27:08.559 upfront just to start a conversation
+00:27:11.200 with them. And that's like predicting
+00:27:13.200 the weather. It's very difficult to do.
+00:27:15.360 So instead what we do is use quantity.
+00:27:18.960 We can reach out to lots of
+00:27:20.480 microcreators
+00:27:22.000 and we can develop lots of game plans to
+00:27:24.640 give value in advance knowing that most
+00:27:27.200 people even after having seen a GL game
+00:27:29.679 plan will not necessarily say yes to it.
+00:27:32.000 And that's freaking awesome because in
+00:27:33.840 this scenario every no leads you one
+00:27:36.240 step closer to a yes.
+00:27:39.360 You only need one yes to completely
+00:27:42.000 change your life. Now more on that in a
+00:27:44.159 second. Let's talk now about Instagram.
+00:27:46.400 In a lot of ways, Instagram is the
+00:27:48.000 perfect platform to start off on because
+00:27:49.840 it's a short form platform. I don't know
+00:27:52.880 if you've noticed this, but Iman and I,
+00:27:54.640 we stay [laughter] on here with you for
+00:27:56.799 hours every single day, for many days
+00:28:00.320 straight. Uh, I'm here at significant
+00:28:02.640 cost to my own personal situation. I
+00:28:04.640 have to leave my wife, who I love madly.
+00:28:06.559 I have to leave behind the kids who I
+00:28:08.320 work so hard to provide for. And I have
+00:28:10.960 to leave behind Bella, my golden
+00:28:12.640 retriever, who's like a fourth kid to
+00:28:14.399 me. Uh, and I have to get on a plane and
+00:28:16.480 I have to fly 16 hours from LA to Dubai
+00:28:19.200 to be on site here for nearly two weeks.
+00:28:22.799 And this is the most valuable resource
+00:28:24.880 that I have in the world, the time that
+00:28:27.440 I spend with the ones that I love. I
+00:28:29.600 sacrifice that and give it up to be here
+00:28:31.679 and share with you for many days, many
+00:28:34.399 hours of hard work. And I do it because
+00:28:36.640 it's worth it. Because a big part of
+00:28:38.960 what gives meaning in my life is to
+00:28:40.799 offer contribution and value to you.
+00:28:43.200 Long- form content is incredibly
+00:28:45.440 valuable, but it's also incredibly
+00:28:47.760 difficult. It requires incredible
+00:28:50.080 sacrifice. Short form content is awesome
+00:28:54.320 because it's short. But the problem with
+00:28:56.799 being short is it's hard to have an
+00:28:58.880 impact when you speak in sound bites,
+00:29:02.559 generally speaking. But on Instagram,
+00:29:05.360 it's not a bug. It's actually a feature.
+00:29:08.000 Instagram is such a great platform
+00:29:09.840 because you can be short form and still
+00:29:12.799 have impact,
+00:29:15.120 especially because of how we taught you
+00:29:17.200 to use stories with this 14-day sequence
+00:29:20.159 and with this three-phase approach. So
+00:29:23.120 when you partner up with a creator and
+00:29:24.880 you help them launch their digital
+00:29:26.399 product, platforms like Facebook and
+00:29:28.480 Twitter, they can be useful, but the
+00:29:30.799 strategies there are a little bit more
+00:29:32.159 complicated and the responsiveness is
+00:29:34.640 not often as ripe as it is for
+00:29:36.880 Instagram. So Instagram is the perfect
+00:29:38.799 platform to start with. It requires the
+00:29:40.559 least amount of effort on your part to
+00:29:42.320 have a microcreator communicate with
+00:29:44.159 their audience in a way that results in
+00:29:46.480 products getting sold, people's lives
+00:29:48.480 getting better, and you getting paid.
+00:29:50.559 and it has the most microcreators on it
+00:29:53.279 of all the platforms and you can reach
+00:29:55.039 them the easiest to help them launch
+00:29:57.120 their digital product to their audience.
+00:29:59.120 And boy are there lots of audiences. I'm
+00:30:02.320 not sure how you can truly understand
+00:30:04.320 what a great time that you're living in
+00:30:06.320 right now because you haven't lived
+00:30:08.159 through the time that I live through
+00:30:10.320 coming up in this digital marketing
+00:30:11.840 game. Not only was it impossible to
+00:30:14.000 really contact any creator back in the
+00:30:16.159 day without going through a lot of
+00:30:17.679 effort, but a lot of the platforms we
+00:30:19.600 could leverage and use to market on were
+00:30:21.360 very difficult to make money with. Many
+00:30:23.360 of the platforms had restrictions on the
+00:30:25.360 very content that you could use. There
+00:30:27.279 used to be a time when I was on YouTube
+00:30:28.960 where you could not post any business
+00:30:30.799 content. They didn't allow it. It was
+00:30:33.039 against the TOS. There was a time when
+00:30:34.960 people were scared to buy anything
+00:30:36.559 online because they weren't sure that it
+00:30:38.559 was safe. I'd have to sell people on the
+00:30:41.120 idea of buying things online like this.
+00:30:42.960 This was the clothes that I would use. I
+00:30:44.720 would say, &quot;Hey, do you go out and eat
+00:30:46.000 at restaurants?&quot; And then they would
+00:30:47.279 say, &quot;Yes.&quot; And I'd say, &quot;Do you give
+00:30:48.720 the waiter your credit card when you're
+00:30:50.799 done to pay the bill?&quot; And they would
+00:30:52.399 say, &quot;Yes.&quot; And I'd say, &quot;Okay, so you
+00:30:54.159 take a complete stranger and you put a
+00:30:56.960 physical credit card in their hand that
+00:30:58.720 they walk away with and you don't know
+00:31:01.120 where they go to.&quot; and that's okay with
+00:31:03.440 you, but you won't use a checkout link
+00:31:05.440 online which is infinitely more secure
+00:31:07.919 than that credit card that you're
+00:31:09.120 handing to a waiter right now. Uh so
+00:31:13.200 what to speak of the audiences that are
+00:31:15.360 available right now. So people buy more
+00:31:17.840 stuff online than they do offline and
+00:31:20.159 you can reach more people online because
+00:31:22.559 most people spend their waking hours
+00:31:25.200 online more than offline. For better or
+00:31:28.320 worse, it is what it is, right? The
+00:31:30.320 amount of people that are staring at a
+00:31:32.640 screen for six plus hours a day is in
+00:31:35.760 the billions. That's how many people are
+00:31:39.279 online for 6 hours a day or more. Okay?
+00:31:42.399 And this has changed significantly over
+00:31:45.200 the last 15 years.
+00:31:47.679 It used to be more attention and more
+00:31:49.679 money was spent offline by a large
+00:31:51.679 amount. And now more attention and more
+00:31:53.600 money is being spent online by a large
+00:31:56.080 amount. So you have more people than
+00:31:58.080 ever before in history who are staring
+00:32:00.480 at screens. You have more people that
+00:32:02.720 you can reach immediately and directly
+00:32:05.360 than ever before. And you can reach
+00:32:07.679 these people for free, which used to be
+00:32:11.120 impossible,
+00:32:13.039 used to not even be a possibility. And
+00:32:16.559 you're reaching people who buy things
+00:32:18.159 online as natural as breathing air. you
+00:32:22.559 are now able to reach them with this new
+00:32:24.240 emerging technology of artificial
+00:32:25.840 intelligence, too.
+00:32:28.480 So, brothers and sisters, if you can't
+00:32:31.120 put these pieces in place and make lots
+00:32:33.200 of money right now, I don't think you'll
+00:32:35.760 ever have a better time in your life to
+00:32:37.760 do so.
+00:32:41.279 Is that making sense? Like, I hope you
+00:32:44.080 truly get it. I can appreciate it
+00:32:46.480 because I live through the other side of
+00:32:48.320 it, but it's hard to appreciate it if
+00:32:52.799 you don't truly understand how valuable
+00:32:55.120 it is. And hopefully you can see it's
+00:32:56.640 it's so valuable. Now, I'm trying to
+00:32:58.559 impress upon you how unbelievably
+00:33:00.159 fortunate you are to be at this time in
+00:33:02.000 this place right now. Uh, if this is
+00:33:04.320 landing with you, put a shadow operator
+00:33:06.080 in the chat just so I can make sure that
+00:33:08.159 we're on the same page because, you
+00:33:09.919 know, I've been dazzling you with these
+00:33:12.080 big numbers and all this data and and
+00:33:14.720 such, but
+00:33:17.039 78 million creators that exist out there
+00:33:18.799 and billions and billions of dollars
+00:33:20.000 being spent online every day and
+00:33:21.360 billions and billions of people spending
+00:33:23.039 six hours a day online. It's easy to get
+00:33:25.679 lost in these numbers.
+00:33:28.960 They're big. It's hard to wrap your head
+00:33:30.559 around. So, let's talk about a number
+00:33:31.919 that's easy to manage. Let's talk about
+00:33:34.399 a number that can completely change your
+00:33:35.919 life. Let's talk about the number one.
+00:33:39.440 One of the greatest books that I I've
+00:33:40.960 read in recent history is the book uh
+00:33:43.360 Tiny Little Habits by BJ Fog. BJ Fog is
+00:33:46.159 a professor at Stanford. And speaking of
+00:33:48.960 Instagram, by the way, the guys who
+00:33:50.480 created Instagram took his course at
+00:33:52.240 Stanford and used his tiny little habits
+00:33:54.880 framework to develop Instagram, which
+00:33:57.600 then became the fastest company in
+00:33:59.039 history at the time to reach a billion
+00:34:00.559 dollars. And they did this by making
+00:34:03.360 Instagram addictive
+00:34:06.240 through the concept that BJ Fog taught
+00:34:08.800 about how to create tiny little habits.
+00:34:11.599 Now, a tiny little habit is an activity
+00:34:13.839 that is so ridiculously simple and small
+00:34:15.760 that it is harder to not do it than it
+00:34:17.679 is to do it. This is why I love this
+00:34:19.359 book for forming my own productive
+00:34:21.119 habits. BJ Fog gives this classic
+00:34:23.280 example in the book of how he wasn't
+00:34:25.359 flossing his teeth and he wanted to
+00:34:26.879 start that habit. So, what he did was
+00:34:28.639 just floss one tooth initially because
+00:34:31.599 while the prospect of going from nothing
+00:34:34.079 to flossing all of your teeth that may
+00:34:36.800 be a lot, anybody can do just one tooth.
+00:34:40.800 And once you establish the habit of
+00:34:42.560 doing something the same time, the same
+00:34:44.320 way through repetition, then you get
+00:34:46.719 automaticity.
+00:34:48.320 And then it becomes easier to add it
+00:34:50.399 another tooth to it because it's nearly
+00:34:52.480 effortless. And then you can add another
+00:34:54.079 tooth to it and then another tooth to
+00:34:55.679 it. That's how you build habits. The
+00:34:58.240 most effective scientifically proven way
+00:35:00.320 of building habits. And having sold over
+00:35:03.040 $250 million online, I've noticed
+00:35:05.119 success in business is the same way.
+00:35:08.960 See, I started selling $4 ebooks that
+00:35:10.800 were six pages long because it was such
+00:35:12.560 a simple task for me to create and sell
+00:35:14.480 these digital products that it was more
+00:35:17.119 painful for me not to do it than it was
+00:35:20.079 for me to do it. The problem in this
+00:35:22.240 space is you see people here and there
+00:35:23.760 and everywhere that are making millions
+00:35:25.599 of dollars,
+00:35:27.839 flying private, driving fancy cars,
+00:35:30.480 going to fancy dinners, and a few of
+00:35:33.119 those people are actually legit. Not
+00:35:34.880 everything on the gram is true, but
+00:35:36.400 there's a lot of those people out there
+00:35:37.680 living that lifestyle um rented or paid
+00:35:42.160 for. Then you go and you compare your
+00:35:45.680 start to where you think their finish is
+00:35:48.400 at. And whether they're legit or not
+00:35:50.560 doesn't even matter because you psych
+00:35:52.160 yourself out because you can't wrap your
+00:35:54.880 head around $10 million or a million
+00:35:56.800 dollars or even $100,000
+00:36:00.560 if you're just starting and trying to
+00:36:02.000 make your first dollar. So, the
+00:36:04.000 challenge we have bringing on shadow
+00:36:05.760 operators to interview and do Q&amp;A
+00:36:07.760 sessions with you has been difficult for
+00:36:10.320 two reasons. One, they operate in the
+00:36:12.160 shadows. So, they're not exactly excited
+00:36:13.920 to come out in public. And second, all
+00:36:16.720 of them that we talk to are ballers
+00:36:19.520 making lots of money and they're all
+00:36:21.599 legit. And Iman and I are sitting here
+00:36:24.400 being like, how can someone relate to
+00:36:26.320 this if they're just starting the
+00:36:27.680 process? This is going to be very
+00:36:29.200 intimidating to them. And it's the
+00:36:30.800 facts, right? So, is it okay with you if
+00:36:33.200 I make it unintimidating? Let me know in
+00:36:35.440 the chat because one is the least
+00:36:38.000 intimidating number out there. You only
+00:36:40.560 need one deal and one deal only to
+00:36:42.880 change your life. You only need to have
+00:36:44.880 one microcreator say yes in order for
+00:36:47.440 your life to completely change for the
+00:36:49.040 better. Now, there are two reasons for
+00:36:50.640 this. One, you will prove to yourself
+00:36:52.560 that it's now absolutely possible. Two,
+00:36:55.680 you will see that you can you can just
+00:36:57.839 repeat the process again with another
+00:36:59.359 microcreator.
+00:37:00.880 the hardest obstacle I have to overcome
+00:37:02.640 to sell you on shadow operating is the
+00:37:04.560 fact that you don't believe that you can
+00:37:06.240 be a shadow operator because you haven't
+00:37:09.119 done it yet. You say things like, &quot;Well,
+00:37:11.520 why would a microcreator even respond to
+00:37:13.040 me? I'm I'm a nobody who hasn't had any
+00:37:14.880 significance.&quot; Uh, and you say things
+00:37:17.040 like, &quot;Well, why would they trust me
+00:37:18.560 with their audience? Because I could
+00:37:19.760 screw it up and ruin their whole
+00:37:20.960 relationship. They're probably scared
+00:37:22.160 that I'm going to do that. So, they're
+00:37:23.280 not even going to entertain the idea.&quot;
+00:37:25.119 Uh, what you're worried about isn't that
+00:37:28.160 they're going to say no. You're actually
+00:37:30.240 worried that they're going to say yes
+00:37:34.160 and that causes you to hesitate and
+00:37:36.560 because if they were to say yes, then
+00:37:37.839 you're going to have to help them launch
+00:37:38.880 a product.
+00:37:42.000 And what if it goes completely sideways?
+00:37:45.119 And what if everybody gets mad? And what
+00:37:47.680 if everything what if you know next
+00:37:49.760 thing you know they're wishing death
+00:37:51.040 upon you? This I'm bringing this up for
+00:37:54.880 a very specific reason. And this is the
+00:37:56.400 biggest friction that I know that I'm
+00:37:58.640 encountering when I'm showing you what's
+00:38:00.240 possible as a shadow operator. The no is
+00:38:03.040 scary, but the yes could be even scarier
+00:38:05.839 when you land these deals in your mind
+00:38:09.040 at least because the reality is not
+00:38:10.880 that. What I described is not true in
+00:38:13.920 reality, but it is true when you're
+00:38:16.160 worrying about what could go wrong in
+00:38:18.079 your mind. See, all of that though
+00:38:20.320 dissolves instantly when you realize
+00:38:22.079 that there are no boogeymen under the
+00:38:24.160 bed in this model and that the reality
+00:38:26.880 is much safer than the nightmare
+00:38:28.480 scenarios that really only exist in your
+00:38:30.240 head. Once you get one deal, you will
+00:38:34.400 realize that this is easier than even we
+00:38:36.240 make it sound. Once you get one deal,
+00:38:39.040 you will realize that this is simpler
+00:38:40.560 than hundreds of other activities that
+00:38:42.160 you've already done and achieved in your
+00:38:44.800 life. This is easier. There's probably
+00:38:47.440 7,000 things in your life that you've
+00:38:49.599 already done that are harder than shadow
+00:38:52.320 operating. And you've already done them.
+00:38:54.480 And you will realize that the way you
+00:38:56.320 get to a million dollars isn't going
+00:38:58.000 from zero to a million dollars. You get
+00:39:01.119 there $1 at a time. You get there one
+00:39:03.520 customer at a time. You get there one
+00:39:05.280 deal at a time. The greatest secret to
+00:39:07.359 success that I've learned that has
+00:39:08.640 really helped me in my career is that
+00:39:10.880 the big numbers come from doing a few
+00:39:13.200 small things. Well, you want large
+00:39:16.640 results, do a few things, but just do
+00:39:20.320 them well. It's no different than how a
+00:39:22.400 giant oak tree comes from the seed of an
+00:39:24.079 acorn that a child can hold in their
+00:39:26.560 hand. The millions come from the initial
+00:39:29.359 simple success of making thousands of
+00:39:31.599 dollars and then just repeating it over
+00:39:34.800 and over again. See, there are 8 billion
+00:39:37.119 people on this planet, and you only need
+00:39:38.960 a thousand of them to give you $1,000 if
+00:39:41.920 you want to make a million dollars. Do
+00:39:43.760 you suppose that there are a thousand
+00:39:45.520 people on this planet right now who
+00:39:47.920 would pay you $1,000 through a
+00:39:50.880 microcreator?
+00:39:52.800 There's your million dollars.
+00:39:56.320 Are you telling me there's no way
+00:39:58.160 possible that you can't find these
+00:40:00.240 people out there? There's got to be a
+00:40:02.720 way, isn't there? There's got to be a
+00:40:04.320 way. It doesn't have to be you directly,
+00:40:06.160 though. It can be you through the
+00:40:08.160 shadows or the microcreator.
+00:40:11.040 We could easily get a thousand people
+00:40:13.040 through a microcreator. And if we put
+00:40:15.119 together deals that only made you $1,000
+00:40:17.599 net profit per deal, think about that.
+00:40:19.920 That's on the lowest of the low end with
+00:40:21.839 microcreators.
+00:40:23.920 There you go. Put together one
+00:40:26.640 microcreator deal that sold a,000 people
+00:40:29.839 $1,000. There's your million dollars.
+00:40:32.160 Now, it never works that way, right? It
+00:40:34.000 never does. Just let's be straight with
+00:40:35.680 each other. It does not work that way.
+00:40:37.599 Uh because
+00:40:39.839 a good microcreator could easily make
+00:40:42.400 you $10,000 here or $20,000 there or
+00:40:47.280 $50,000 there. That that's on the
+00:40:49.280 conservative side. So let's just say
+00:40:51.440 each deal makes you only $10,000. Like
+00:40:54.160 let's be extremely ultraconservative
+00:40:56.240 here and you did just one deal per
+00:40:58.720 month, [snorts]
+00:41:00.400 which again this isn't how this works,
+00:41:01.839 but we're just running a thought
+00:41:02.960 experiment. If you did one deal per
+00:41:05.119 month and each deal only made you
+00:41:06.880 $10,000 in one year you would make
+00:41:09.280 $120,000.
+00:41:13.359 Now, if each microcreator was worth
+00:41:15.359 $20,000 to you per deal, then in one
+00:41:18.480 year, if you did one per month a deal,
+00:41:21.040 that's 12 deals, you would make
+00:41:22.720 $240,000.
+00:41:24.800 Question, would that be life-changing to
+00:41:27.200 you?
+00:41:28.960 Would you be willing to strap in and put
+00:41:31.040 some focus on this and really implement
+00:41:33.119 to the best of your abilities to close
+00:41:34.880 just one deal a month if it meant nearly
+00:41:36.720 a quarter million dollars in your pocket
+00:41:38.480 in one year's time? Would you be willing
+00:41:41.200 to do that? If so, shadow operator, put
+00:41:43.359 it in the chat.
+00:41:45.280 Now, again, it doesn't work that way.
+00:41:46.960 It's nonlinear
+00:41:49.920 because oftentimes one deal blows up.
+00:41:52.240 So, you might do one small deal, one
+00:41:54.160 small deal, and then boom, you hit the
+00:41:56.079 big time, and then the microcreators
+00:41:58.000 come to you. But I'm getting ahead of
+00:42:00.240 myself
+00:42:02.960 because the numbers work out even better
+00:42:06.364 [snorts]
+00:42:07.019 [laughter]
+00:42:08.160 because this is a business that doesn't
+00:42:09.680 function from a linear perspective. It
+00:42:11.520 becomes exponential. It's really
+00:42:13.119 important you understand this concept in
+00:42:14.640 your business about linear versus
+00:42:16.079 exponential. Once you understand this,
+00:42:17.760 you realize that your brain is equipped
+00:42:19.520 to interpret the world through a linear
+00:42:21.359 perspective, but the world is actually
+00:42:23.359 exponential. Each deal multiplies from
+00:42:26.960 the last deal. Let me explain. Once you
+00:42:29.599 get one deal, you're never starting from
+00:42:31.839 scratch again. You only have to start
+00:42:34.079 from scratch in this business one
+00:42:36.400 freaking time. So once you get a deal,
+00:42:39.520 you're leveraging the success of that
+00:42:40.800 deal to multiply the success of the next
+00:42:42.720 deal. Okay? We'll loop back to that in a
+00:42:45.119 second. And stay with me here a little
+00:42:46.400 longer on the power of small numbers.
+00:42:48.480 One deal with one microcreator can put
+00:42:50.800 you in front of 20,000 to a h 100,000
+00:42:54.000 followers of that microcreator.
+00:42:57.119 And again, having sold hundreds of
+00:42:59.040 millions of dollars online, I have a
+00:43:00.560 secret that most people aren't aware of.
+00:43:03.280 The real value of this audience is not
+00:43:05.440 in the 20,000 total followers
+00:43:09.520 or the 50,000 followers or the 100,000
+00:43:13.599 followers.
+00:43:15.839 The real value inside the microcreators
+00:43:18.960 audiences is another audience. The
+00:43:22.800 audience of a thousand true fans. In
+00:43:26.800 2008, there was an article written
+00:43:28.240 called A Thousand True Fans by Kevin
+00:43:29.760 Kelly. This article was written for
+00:43:31.440 musicians. So, I paid particular
+00:43:33.119 attention to it because I was, you know,
+00:43:35.040 a rap artist at the time, still trying
+00:43:36.800 to run that business, trying to be
+00:43:38.880 successful while starving to death in
+00:43:40.640 this little tiny apartment. And when I
+00:43:42.400 read this article, it was groundbreaking
+00:43:44.079 because in it, Kevin puts forth this
+00:43:45.760 concept that in order for you to be
+00:43:47.119 truly successful, you don't need to sell
+00:43:48.640 a million people. You just need to find
+00:43:51.760 a thousand diehard fans. Because there's
+00:43:55.040 a law in the universe that works across
+00:43:56.960 all data sets and it works especially
+00:43:58.720 true in business and it's called the
+00:44:00.480 8020 rule. Meaning about 20% of your
+00:44:04.000 inputs give you 80% of your outputs. So
+00:44:07.040 20% of drivers cause about 80% of
+00:44:09.599 wrecks. 20% of criminals commit about
+00:44:12.000 80% of crimes. 20% of investors make
+00:44:14.880 about 80% of the money in the market.
+00:44:17.359 And in business, 20% of customers spend
+00:44:20.079 80% of the money available in that
+00:44:22.720 market. So if you want to So if you
+00:44:24.400 reach 20,000 people through a
+00:44:26.160 microcreators following, you're not
+00:44:28.079 really concerned with the number 20,000.
+00:44:30.240 What you really want is to reach that
+00:44:31.920 4,000 members within that 20,000
+00:44:36.000 who are likely to be the hottest buyers.
+00:44:39.599 And this is what the Instagram launch
+00:44:41.200 formula was designed and engineered
+00:44:43.280 around and has been automated with
+00:44:45.359 Ghostriter OS. The true value of being a
+00:44:48.319 shadow operator is that you don't have
+00:44:49.839 to assemble an audience from scratch.
+00:44:52.400 Instead, what you're doing is leveraging
+00:44:54.319 already existing assembled audiences.
+00:44:57.520 And from those audiences,
+00:44:59.359 mathematically, there's going to be 20%
+00:45:02.240 of people within that audience that are
+00:45:04.640 already ready to spend money on any
+00:45:07.040 product. if there has been no product
+00:45:09.599 put in front of them previously. We call
+00:45:12.079 this the lowhanging fruit. Now, if you
+00:45:14.560 were building an audience from scratch,
+00:45:16.720 you can't just go to Facebook and say,
+00:45:18.640 &quot;Hey, give me those 20% buyers. Sift and
+00:45:22.000 sort them, you know, and ignore
+00:45:23.440 four-fifths of the other ones and just
+00:45:24.880 give me the best buyers.&quot; You can't do
+00:45:26.800 that. You can't go to Google and say,
+00:45:28.000 &quot;Only show my results for the 20% of
+00:45:30.319 buyers who are going to spend 80% of the
+00:45:31.839 money available.&quot; Doesn't work that way.
+00:45:34.079 The only way you get the 20% is by
+00:45:37.440 having the other 80%.
+00:45:40.319 This is what makes these audiences so
+00:45:42.000 valuable to you because somebody had to
+00:45:45.200 build the whole audience.
+00:45:47.920 They had to kiss a lot of frogs before
+00:45:49.680 they found a prince. If we use the old
+00:45:52.079 dating analogy from the woman's
+00:45:53.520 perspective, right? Four-fifths of any
+00:45:56.560 audience is essentially worthless. I
+00:45:59.119 laugh at it because people think they're
+00:46:00.720 dunking on us when we do these launches
+00:46:02.319 and I read the chats and they say, &quot;Oh,
+00:46:03.760 you started with this many people on day
+00:46:05.200 one and on day four you have this many
+00:46:06.880 people. VIP started here and now VIP's
+00:46:08.800 there.&quot; I'm like, &quot;Yeah, that's a
+00:46:09.760 mathematic principle.&quot;
+00:46:11.337 [laughter and gasps] Even Jason, Sir
+00:46:12.960 Jason of Fladdlin, the persuasion prince
+00:46:15.200 is not able to uh override the
+00:46:18.000 mathematical laws of this universe. This
+00:46:20.480 is just the way this works. You don't do
+00:46:22.240 it for the majority who are not going to
+00:46:24.400 invest. You do it for the minority who
+00:46:26.400 are dying to invest. And this is where
+00:46:28.880 you get really really rich off that
+00:46:31.520 audience within the audience. But you
+00:46:34.000 never know who's going to be the 20%
+00:46:36.000 that spends the 80% and you don't know
+00:46:38.160 who's going to be the 80 the other 80%
+00:46:40.000 who spends practically nothing. And this
+00:46:42.000 is an issue that keeps a lot of
+00:46:43.520 marketers poor because they'll go out
+00:46:45.520 there and they'll reach out to thousands
+00:46:47.040 and thousands of people and they won't
+00:46:49.119 see any money from it. Unfortunately,
+00:46:51.680 however their marketing played out, it
+00:46:53.760 never hit those key people in the market
+00:46:56.560 that spend the most money. Now, we
+00:46:59.280 bypass this problem completely
+00:47:02.640 because we go to existing audiences that
+00:47:04.720 have already been assembled ranging
+00:47:06.800 between 20,000 to 100,000 people or
+00:47:09.359 10,000 or even 5,000 to 100,000 people.
+00:47:12.079 I'm I'm okay with any of those
+00:47:13.680 scenarios. And we know that within those
+00:47:16.800 audiences, a majority of them are not
+00:47:19.760 going to buy from the microcreator when
+00:47:22.880 we help them create the product and
+00:47:24.640 launch it to that audience. And that is
+00:47:26.319 totally okay because if you have a
+00:47:28.319 thousand people who spend a thou spend
+00:47:31.440 $100 with you, that's a $100,000 launch.
+00:47:37.280 If we just have a thousand people spend
+00:47:38.960 $100,
+00:47:40.560 that's a $100,000. But even a thousand
+00:47:43.200 people is a lot. If we only get a
+00:47:45.599 hundred people out of an audience
+00:47:48.400 following of 50,000 to buy a digital
+00:47:51.359 product for $100,
+00:47:54.000 then that's $10,000.
+00:47:56.640 How much of a difference would $10,000
+00:47:58.800 make right now in your life?
+00:48:01.760 I know for most of you it would make a
+00:48:03.440 lot of a difference because most of you
+00:48:05.839 making the investment in monetize is
+00:48:08.400 difficult for you right now. So 10,000
+00:48:10.720 would be completely lifechanging to you,
+00:48:13.200 especially if you could make it within
+00:48:14.720 the next month. Right
+00:48:16.960 now, is it okay if I go a little bit
+00:48:18.560 deeper with you here on this? I'm going
+00:48:20.960 to break down some further advanced
+00:48:22.480 psychology that very few people on this
+00:48:24.240 planet understand. And it goes like
+00:48:25.520 this. The smaller the audience, the more
+00:48:27.359 responsive it tends to be.
+00:48:30.000 In one of my legendary shadow operating
+00:48:32.480 campaigns, we were taking an existing
+00:48:34.240 product and we repositioned it. We put
+00:48:37.599 it in front of a new audience.
+00:48:40.880 And this is actually one of the greatest
+00:48:42.559 superpowers as a shadow operator that
+00:48:44.480 you do. You get to leverage existing
+00:48:47.440 assets that creators have already
+00:48:49.839 developed and find new and valuable ways
+00:48:52.800 to deploy those assets and get paid lots
+00:48:54.400 of money. It's like Viagra. I don't know
+00:48:55.680 if you know how Viagra was invented.
+00:48:57.359 Somebody was trying to treat uh blood
+00:48:59.920 pressure, high blood pressure, and the
+00:49:02.160 test subjects were like, &quot;Well, it's not
+00:49:03.760 helping my blood pressure go down, but
+00:49:05.359 it's helping something else come up.&quot;
+00:49:07.440 And they're like, &quot;Okay, existing asset
+00:49:09.680 pointed to a new market, billions of
+00:49:11.920 dollars.&quot; So, all you have to do is take
+00:49:14.400 existing assets and slightly tweak or
+00:49:18.000 position what those assets are.
+00:49:21.680 And this is something somebody's built
+00:49:23.040 their whole life. and you just put this
+00:49:24.480 little cherry on top and the money gets
+00:49:26.800 going. So, in this particular instance
+00:49:28.559 of us doing this, we were competing
+00:49:30.000 against one of the biggest names in the
+00:49:31.520 history of the financial space. I'm sure
+00:49:33.440 you've heard of them and this time I'm
+00:49:35.119 going to name a name. It's a guy named
+00:49:36.880 Robert Kiasaki. I'm not a fan, right?
+00:49:39.839 But Robert Kiyosaki has written the
+00:49:42.480 bestselling book of all time on uh
+00:49:44.880 financial literacy, which is Rich Dad
+00:49:46.880 Poor Dad. So, this book has sold
+00:49:48.640 millions and millions and millions of
+00:49:50.160 copies. And at the time that we were
+00:49:51.920 competing against him, he had an
+00:49:53.359 audience of over 10 million people that
+00:49:55.200 he could reach. Me, on the other hand, I
+00:49:57.680 had access to an audience of 50,000
+00:50:00.160 people that I could access for our
+00:50:02.160 shadow operation that we were running,
+00:50:04.079 just 50,000. And now because Kiasaki and
+00:50:07.119 a whole bunch of other people, they were
+00:50:08.800 all promoting the same product. Uh we
+00:50:11.359 were operating as affiliates in this
+00:50:13.599 instance, meaning we're behind the
+00:50:15.359 scenes promoting a product that somebody
+00:50:17.119 else has already created. This is
+00:50:19.200 similar to how you're going to have the
+00:50:20.559 microcreator already create a product,
+00:50:22.800 right? Have them create a product. Now,
+00:50:24.640 we were doing this in a contest
+00:50:26.400 environment. So, whoever sold the most
+00:50:28.960 got a bonus on top of that and there was
+00:50:31.359 a leaderboard. Okay? Now, when you run
+00:50:34.160 in these contests as a shadow operator,
+00:50:36.240 these these products, they open at a
+00:50:38.000 certain time and then they close at a
+00:50:40.480 certain time. So, we're all promoting
+00:50:42.559 the same product at the same time.
+00:50:46.640 So, there's winners and losers here.
+00:50:48.079 There's real stake and none of us, it's
+00:50:50.079 not any of our products. We are all
+00:50:53.040 promoting somebody else's product. So,
+00:50:55.200 we're competing against hundreds of
+00:50:56.640 other people all selling the same
+00:50:58.000 product. And here was the results. We
+00:50:59.839 made millions of dollars more in net
+00:51:02.880 profit than Kiasaki did with his big
+00:51:05.440 name out there, with him personally
+00:51:07.440 endorsing it, with him front and center
+00:51:09.440 to tens of millions of people in his
+00:51:11.040 audience. He had way more of an audience
+00:51:12.559 that he had access to personal access to
+00:51:15.280 than I had access to. And it was a
+00:51:17.200 lesson that I learned very early in my
+00:51:19.040 career.
+00:51:23.359 I had launched a product at the end of
+00:51:25.200 2007
+00:51:27.119 that taught article writers a technique
+00:51:28.640 to improve the speed at which they could
+00:51:29.920 write their articles. Now, at the time,
+00:51:31.680 there wasn't really any social media.
+00:51:33.280 Instagram didn't exist. Uh, so I put my
+00:51:35.440 buyers on an email list, and this is how
+00:51:37.119 I would communicate to them. I would
+00:51:38.559 send them emails. And what I discovered
+00:51:40.000 is if I talked about article writing to
+00:51:41.760 these article writers, my open rates and
+00:51:44.000 my click-through rates on these emails
+00:51:46.000 were insane. But if I strayed for that
+00:51:48.480 and I talked about anything other than
+00:51:50.400 article writing, then it was like I
+00:51:53.040 didn't exist. People would unsubscribe
+00:51:54.880 from my email list. So people that were
+00:51:56.640 customers of mine yesterday were now
+00:51:58.319 upset with me today if I didn't stay
+00:52:00.160 talking about the thing that they were
+00:52:01.680 most interested in. And what happened is
+00:52:04.079 as my audience grew and I had different
+00:52:05.760 ways that people could follow me, I
+00:52:07.680 ended up with this dilemma. If I talked
+00:52:09.839 to one specific subgroup within that
+00:52:11.760 large group, I would alienate every
+00:52:13.599 other subgroup. So, I'd have to water my
+00:52:16.000 message down to try to reach everybody.
+00:52:18.000 And as a result, I didn't really end up
+00:52:20.000 reaching anybody. Now, one of the
+00:52:22.720 biggest values that microcreators have
+00:52:24.559 is they have this really tight message
+00:52:28.000 to this audience that's specifically and
+00:52:30.319 only directly um applicable to that
+00:52:33.440 specific audience that they can reach.
+00:52:35.440 The point I'm making with this is the
+00:52:37.200 audience is kind of like the the
+00:52:38.640 Goldilocks effect. Not too big, not too
+00:52:42.800 small, just right. They're big enough
+00:52:45.440 that once we do a deal, there's a lot of
+00:52:48.160 money at stake, but they're small enough
+00:52:50.559 that the response rate is going to be
+00:52:52.240 super duper high. It's going to be way
+00:52:54.240 higher than you could get with large
+00:52:56.319 mass market styled audiences. Which is
+00:52:58.640 why with 50,000 people and that tightly
+00:53:01.440 connected uh relationship to that
+00:53:03.440 audience, we could beat a famous
+00:53:05.839 celebrity personality who wrote a book
+00:53:08.400 with the president of the United States
+00:53:10.720 and had 10 million followers and we
+00:53:13.280 could double him in sales. So, these
+00:53:16.559 microcreators, not only are they easier
+00:53:18.960 for you to access because they're
+00:53:20.319 smaller, they have more actual money at
+00:53:23.760 stake, more pentup value waiting to be
+00:53:27.119 extracted than super big names. Listen,
+00:53:29.920 I started shadow operating before Iman
+00:53:32.400 celebrated his 8th birthday. [laughter]
+00:53:34.880 I've been around this block several
+00:53:36.480 times and I've had a massive
+00:53:37.839 contribution in the space of shadow
+00:53:39.440 operating. And here's what I can tell
+00:53:40.640 you with 100% certainty. The shadow
+00:53:43.280 operators that I see win the most, and
+00:53:45.839 I'm not just talking in terms of
+00:53:47.680 percent. I'm talking in terms of actual
+00:53:50.000 dollars, always do so through smaller
+00:53:53.040 audiences, not larger audiences. So, you
+00:53:56.400 do not want to do deals with people with
+00:53:58.240 millions of followers. I have worked
+00:54:00.160 with these celebrities that you follow,
+00:54:01.839 and I have done deals with the biggest
+00:54:03.520 names in the space, but I have always
+00:54:05.839 made more money working with people who
+00:54:08.160 have dedicated, loyal, true fans than I
+00:54:10.160 ever did with the mass market. We did
+00:54:12.319 two launches in the same week. One with
+00:54:14.480 Tony Robbins and one internally with a
+00:54:17.119 very small client and the one internally
+00:54:18.800 with a small client pulled bigger
+00:54:20.880 numbers, right? So, it's easier for you
+00:54:24.000 to reach these microcreators. It's
+00:54:26.240 easier for you to work with them because
+00:54:28.400 they're not financially independent and
+00:54:30.800 they need revenue to continue creating.
+00:54:33.599 And you're going to have a bigger impact
+00:54:35.680 and bigger income working with these
+00:54:37.920 audiences. And I know that this is a
+00:54:40.240 difficult concept to wrap your head
+00:54:41.839 around right now of why smaller
+00:54:43.680 audiences produce larger profits than
+00:54:45.520 larger audiences, but at least does this
+00:54:47.760 resonate with you at some level? If so,
+00:54:50.400 drop a shadow operator in the chat. Uh,
+00:54:52.559 and I can see them all. It's in the
+00:54:54.240 right corner of my eye. I got the chat
+00:54:56.000 rolling right now, so I'll see them when
+00:54:57.440 they come flooding in because it's a
+00:54:59.359 it's a tough it's an abstract concept,
+00:55:01.359 but it's God, if you truly understand
+00:55:03.040 this, then I think it's going to make it
+00:55:04.400 easy for you to move forward as a shadow
+00:55:06.559 operator. All right. And I see them
+00:55:09.200 lighting up right there. And hell, since
+00:55:10.960 we're on the topic of complicated
+00:55:12.559 concepts that are not obvious and need
+00:55:14.559 to be unwound,
+00:55:16.559 let me just throw another one at you.
+00:55:18.400 All right. It's called ego versus money.
+00:55:21.200 And this is a big one. It's it's subtle.
+00:55:24.640 It's like carbon monoxide poisoning. You
+00:55:26.880 can't smell it. You don't know it
+00:55:28.079 exists. And then it kills you. It's
+00:55:30.000 there all the time, and you're not even
+00:55:31.520 aware of it. So, let me bring some
+00:55:33.200 awareness for you. It's insane how rich
+00:55:34.720 you can be if you're willing to take
+00:55:36.319 none of the credit.
+00:55:39.040 I live in one of the most expensive
+00:55:40.640 cities in the world. I live in Los
+00:55:42.559 Angeles, California, the Dubai of the
+00:55:45.119 West, right? And I live specifically
+00:55:47.119 within a suburb of Los Angeles called
+00:55:49.359 Prrentwood, right? So like this is the
+00:55:51.359 upper crust of the upper crust. Uh the
+00:55:53.839 richest of the rich live here. Uh, now
+00:55:56.400 when you think of LA,
+00:55:59.200 most people think of Hollywood
+00:56:00.880 celebrities who grace the big screens
+00:56:02.960 and win the awards and get talked about
+00:56:04.880 in the news and followed by the
+00:56:06.319 paparazzi. While the neighborhood that I
+00:56:08.880 live in, there are very few celebrities
+00:56:11.280 there because most of the celebrities do
+00:56:13.920 not make enough money to live in these
+00:56:16.319 neighborhoods that I live in and that
+00:56:19.599 surround me. When I walk the streets
+00:56:22.000 with my wife and the kids and the dog,
+00:56:24.559 the houses on the low end are five
+00:56:26.720 million and that's on the low low end.
+00:56:28.799 And the houses on the high end are a
+00:56:30.559 hundred million or more. And you can't
+00:56:33.760 turn your head without seeing houses in
+00:56:36.079 between 20, 25, 30, 40 million. And you
+00:56:39.200 know who lives in those houses? It's not
+00:56:41.839 the celebrities. It's the agents of the
+00:56:44.960 celebrities. It's the lawyers for those
+00:56:47.839 celebrities. It's the producers and
+00:56:50.319 directors of the films that the
+00:56:52.400 celebrities star in.
+00:56:55.280 The celebrities are merely the talent.
+00:56:58.000 The real money goes to the shadow
+00:56:59.839 operators.
+00:57:01.760 The problem is because you never see
+00:57:04.160 them.
+00:57:05.680 You discount the value of this and you
+00:57:08.640 think that you have to be front and
+00:57:10.000 center in order to be successful. Yet
+00:57:12.559 that's the least effective position to
+00:57:14.799 be in because it has the most stress.
+00:57:17.839 It's the least flexible because as a
+00:57:20.160 shadow operator, get this. This is
+00:57:22.000 really cool. You can pick and choose who
+00:57:24.960 you work with.
+00:57:27.440 You have ultimate flexibility. You don't
+00:57:29.920 have to be beholden to any one specific
+00:57:31.839 market or any one specific position. You
+00:57:34.480 can be in several markets simultaneously
+00:57:37.040 taking advantage of several different
+00:57:38.640 opportunities all at the same time.
+00:57:40.960 Write this down. Wealth scales better in
+00:57:44.000 the shadows. Let me say that again.
+00:57:46.799 Wealth scales better in the shadows. The
+00:57:48.960 only problem that you have to deal with
+00:57:50.640 is this.
+00:57:53.680 Are you willing to get little to no
+00:57:55.599 credit for your contribution to the
+00:57:57.599 marketplace
+00:57:59.359 because you're in the shadows? And I am
+00:58:02.079 the poster child for this. Many of the
+00:58:05.200 people that you follow and look up to, I
+00:58:08.319 have directly or indirectly had
+00:58:11.280 significant impact on their careers. And
+00:58:14.400 many of them have come gone on and
+00:58:16.480 become incredibly famous off the
+00:58:18.480 backbone of many of the concepts that I
+00:58:20.240 initially put into their hands. Without
+00:58:22.480 me, most of these people would not be
+00:58:25.280 known. And I get very little of the
+00:58:28.400 credit for it. Iman knows he knows the
+00:58:30.480 receipts that I hold [laughter] and I'm
+00:58:32.240 okay with it because I have a large
+00:58:35.040 stack of money to consult myself with.
+00:58:37.920 Plus, and this also is this is actually
+00:58:40.079 more important to me, impact is still
+00:58:42.160 impact. Whether the impact is credited
+00:58:44.960 to me or credited to somebody else, it
+00:58:46.799 doesn't take away from the impact.
+00:58:50.160 I know the contribution I have on the
+00:58:52.480 world still exists.
+00:58:54.880 Whether I'm the one who gets the credit
+00:58:56.319 for it or somebody else does.
+00:59:01.520 So, are you okay with allowing somebody
+00:59:03.119 else to take the credit if it means that
+00:59:04.799 you make more money than you ever
+00:59:06.640 thought possible? If so, give me a
+00:59:09.680 shadow operator in the chat right now.
+00:59:11.839 Because this is one of the things that
+00:59:13.200 people have difficulty with. They have
+00:59:15.359 the ego and not the money. I dropped the
+00:59:18.799 ego, now I have the money. Now,
+00:59:23.760 it is insane how far you can take this
+00:59:26.000 if you get really good at shadow
+00:59:27.280 operating. Like, it is absolutely truly
+00:59:29.040 mind-blowing insane. The grandest
+00:59:30.880 campaign that I ever shadow operated in
+00:59:32.799 was for a launch for a product called
+00:59:34.240 The Plant. A gentleman by the name of
+00:59:36.880 Dan Hollings, he came to me one day and
+00:59:39.760 he asked me to be the shadow operator
+00:59:41.280 for his launch, me and my company, Rapid
+00:59:42.960 Crush. And 226 days later, we sold 57.9
+00:59:47.440 million. Now, let me show you what those
+00:59:51.200 numbers look like. How big of an
+00:59:54.160 audience do you think we had to reach in
+00:59:57.040 order to sell $57.9
+00:59:59.760 million? It had to be in the millions,
+01:00:02.319 right? And the answer is less than
+01:00:05.920 250,000
+01:00:08.000 people. That's it. Now, that's a lot of
+01:00:10.799 people, but it's not a lot compared to
+01:00:13.920 57.9
+01:00:17.760 million.
+01:00:20.559 Now, only a tiny fraction of those
+01:00:22.480 250,000 souls were directly my audience
+01:00:26.400 because I don't have a large audience.
+01:00:27.920 You know, I operate mostly in the
+01:00:29.280 shadows. I have a tiny audience. Okay.
+01:00:31.520 Uh, and at the time I had no social
+01:00:33.839 presence whatsoever. It's only been
+01:00:35.520 recently that I'm on the Instagram
+01:00:37.599 myself. I installed it for the first
+01:00:39.839 time as an app on my phone this year or
+01:00:42.559 2025. I installed it, right? All of
+01:00:46.240 these audiences that we did this $57
+01:00:49.040 million launch came from other people.
+01:00:52.240 We would go to creators and we would
+01:00:54.880 have them promote this product that we
+01:00:58.079 published for Dan Hollings. We literally
+01:01:01.280 spent less than $1,000 on advertising
+01:01:04.880 to generate 57.9 million.
+01:01:09.760 This was all done through microcreators.
+01:01:12.880 All of the audience we got for this
+01:01:15.920 product was through microcreators.
+01:01:19.040 Wasn't my product. It was launched in a
+01:01:21.839 space I had zero expertise in, but I had
+01:01:25.440 strategy. I knew the shadow operator
+01:01:28.000 playbook and I played it well. I knew
+01:01:30.480 what levers and strings to pull. And in
+01:01:32.480 this space, this is still the record to
+01:01:34.559 this very day, five years later.
+01:01:36.640 Nobody's done more in less time than
+01:01:40.000 this. Okay? This is how powerful shadow
+01:01:43.440 operating can be. This is what it looks
+01:01:45.680 like at the highest of high levels. But
+01:01:49.760 see, Dan came to me 13 years later after
+01:01:54.000 we had done shadow operating from Dan
+01:01:56.559 previously.
+01:01:58.640 So this is why success compounds. This
+01:02:00.960 is why success is nonlinear. This is why
+01:02:03.200 a million dollars seems infinitely far
+01:02:06.079 away from you right now. And then when
+01:02:07.760 you close a deal, all of a sudden it
+01:02:09.760 appears very close to you and then you
+01:02:11.839 realize it is obtainable. Now back to
+01:02:14.240 the subject of credit, right? You will
+01:02:16.400 never get public credit for the
+01:02:18.079 contribution that you make as a shadow
+01:02:19.760 operator, but the people that are paying
+01:02:21.440 attention will give you credit.
+01:02:24.023 [laughter]
+01:02:25.333 [gasps]
+01:02:25.920 Oh my god, they will give you credit. So
+01:02:27.760 guys like Dan come to me because they
+01:02:29.839 find the clues of how other people in
+01:02:31.599 their space were able to go from nothing
+01:02:33.280 to having these successful launches and
+01:02:35.280 making millions of dollars. They follow
+01:02:37.200 the clues. So you get a reputation
+01:02:39.920 amongst a few highly influential people
+01:02:43.200 when you start shadow operating
+01:02:45.119 properly. And this is why it doesn't
+01:02:47.359 scale linearly. This is why not every
+01:02:49.680 deal is going to make you $20,000.
+01:02:52.160 You're going to start with these smaller
+01:02:53.599 deals and then pretty soon the same
+01:02:55.920 effort is going to get you to a $30,000
+01:02:58.880 deal and then a $50,000 deal and then a
+01:03:01.839 $250,000
+01:03:03.359 deal or however the hell it plays out
+01:03:05.119 for you. My point is it just goes stack
+01:03:06.960 stack stack stack stack stack stack,
+01:03:08.720 right? It multiplies.
+01:03:11.359 You don't start from zero ever again.
+01:03:13.520 And so you do a couple of these launches
+01:03:15.119 and not only is your outreach going to
+01:03:16.640 become much easier because when you
+01:03:18.559 reach out to microcreators in the
+01:03:20.319 future, you can say, &quot;Hey, we worked
+01:03:21.920 with X, we work with Y, we work with Z.
+01:03:24.559 Here's their results. We'd like to do
+01:03:26.319 the same for you.&quot; Easiest deal that you
+01:03:28.640 could put together ever in your life.
+01:03:30.400 Your response rate will go up when you
+01:03:31.920 send out these message. And even better
+01:03:33.760 than that, people will start coming to
+01:03:35.200 you. They said, they will say, &quot;So and
+01:03:36.880 so said that you helped them dot dot
+01:03:39.520 dot.&quot;
+01:03:41.280 I don't know if you've noticed this, if
+01:03:42.480 you've seen the guests over the last
+01:03:43.599 days, but almost at least half of them
+01:03:45.760 were clients of mine. Uh they paid me
+01:03:48.079 consulting. Shadow operators consult
+01:03:50.400 with me more than anybody. So I am the
+01:03:53.039 shadow operator whisperer, if you will.
+01:03:56.480 And I have that reputation. And people
+01:03:58.559 come to me for that advice. And when you
+01:04:00.640 start helping microcreators, they will
+01:04:02.559 start coming to you as well.
+01:04:05.520 And this is how we're able to get deals
+01:04:08.720 like the $57 million deal that we
+01:04:10.799 landed. I did not outreach. It came to
+01:04:13.520 me. You are you outreach
+01:04:17.440 as long as it takes to close a winning
+01:04:19.359 deal and then be shocked at how little
+01:04:21.680 you'll ever have to outreach again in
+01:04:23.440 your life. So, are you willing to suffer
+01:04:25.359 for a little bit to go through that
+01:04:28.079 process to have a long, long life of
+01:04:31.200 enjoyment
+01:04:34.240 for that $57 million launch? I did not
+01:04:36.799 create the product. I did not develop
+01:04:38.880 the audience. [snorts] I used the shadow
+01:04:41.599 operating strategy and structure to
+01:04:43.440 unlock the most value within that
+01:04:45.119 audience.
+01:04:48.319 And this is the power of shadow
+01:04:49.839 operating. It is the greatest form of
+01:04:51.839 financial arbitrage to ever exist. Does
+01:04:55.119 that excite you? If so, give me a shadow
+01:04:57.599 operator in the chat.
+01:05:00.640 I think that's insane. Now, let's travel
+01:05:02.960 back in time from 2021 when we did the
+01:05:05.039 $57 million launch. Uh, this is me
+01:05:07.760 speaking on stage about it in Brazil
+01:05:09.520 last year, right? Let's go back to 2015
+01:05:12.079 when we did the $9.8 million launch and
+01:05:14.240 we did that in eight days as a shadow
+01:05:15.760 operator. This is a great example right
+01:05:17.359 here. It's in a different market.
+01:05:19.280 Another market in which I am not an
+01:05:21.039 expert in. And a majority of the 9.8
+01:05:23.760 million came from other people's
+01:05:26.000 audiences. This is not my product. This
+01:05:28.720 is somebody else's product that I was
+01:05:30.400 able to take. I could take the packaging
+01:05:32.480 of the product and I could enhance it in
+01:05:34.640 ways that would make it more valuable.
+01:05:37.280 And I was so effective at this. And our
+01:05:40.000 company did so well with this as shadow
+01:05:41.920 operators that other people who were
+01:05:44.079 promoting the same exact product. Would
+01:05:46.640 you like to see how much more effective
+01:05:48.160 we were? We were about $7 million more
+01:05:52.400 effective. We sold nearly $7 million
+01:05:56.400 more than the second place shadow
+01:05:58.880 operator that you see on this leading
+01:06:00.640 leaderboard right here for a product
+01:06:02.720 selling uh products on Amazon, which I
+01:06:04.720 am not an expert in. I don't sell
+01:06:06.559 products on Amazon, but we know how to
+01:06:09.280 take a product, put it in front of
+01:06:12.079 audiences that microcreators hold in
+01:06:15.119 ways to get them to buy at a higher rate
+01:06:17.440 than anybody else on the planet. As you
+01:06:19.359 can see evidenced right there on your
+01:06:20.720 screen. If you look at this different
+01:06:22.720 shadow operators promoting the same
+01:06:24.400 product, none of them are famous names,
+01:06:26.480 by the way. You've never heard of any of
+01:06:27.920 these people. All of them follow the
+01:06:30.000 same concept of a thousand true fans. In
+01:06:33.039 this particular case, the product we
+01:06:34.559 were selling was $5,000.
+01:06:37.599 So if you only sold a,000 people a
+01:06:39.599 $5,000 product, there's your thousand
+01:06:41.359 true fans. That's $5 million worth of
+01:06:44.799 products. Isn't that insane? Now,
+01:06:47.280 obviously, you're not going to start
+01:06:48.720 there. But if you 10%ed that, right,
+01:06:51.520 would $500,000
+01:06:53.920 on a shadow operating deal be okay with
+01:06:55.839 you if it's not 5 million? Would 50,000
+01:06:58.480 if we 1%ed that on a shadow operating
+01:07:01.680 deal be cool with you? Okay. Now, would
+01:07:04.400 you like to know another real secret of
+01:07:06.160 shadow operating? It's something that is
+01:07:07.920 very subtle
+01:07:09.839 yet is very profound and it's at the top
+01:07:12.799 of my list of how I became so successful
+01:07:14.880 in my career having now sold hundreds of
+01:07:17.119 millions of dollars in the shadows. Are
+01:07:18.960 you ready for it? Here it is. This is
+01:07:21.280 the greatest secret that I know to help
+01:07:24.559 you succeed as a shadow operator. And
+01:07:27.680 it's the majority of people buy. Not
+01:07:31.039 when they say yes, but when they run out
+01:07:34.160 of ways to say no. I demonstrate this to
+01:07:38.720 you every single day when I hang out
+01:07:40.160 with you for hours and hours and hours
+01:07:41.599 and hours on these live streams because
+01:07:43.359 I have to help you run out of excuses so
+01:07:46.079 you no longer default back to the
+01:07:48.240 smallest version of yourself. and
+01:07:50.400 instead can step into that larger
+01:07:52.240 version of who you actually are. And
+01:07:55.760 this principle is consistent across
+01:07:57.599 every single marketing campaign that
+01:07:59.200 ever exists. So when you're reaching out
+01:08:00.799 to these creators, you are making it
+01:08:02.799 impossible for them to say no because
+01:08:04.960 you are taking the risk out of it.
+01:08:06.480 That's at the heart of the shadow
+01:08:07.920 operating approach. You come in with a
+01:08:10.079 riskfree offer. A risk-free offer uh so
+01:08:14.079 amazing
+01:08:15.920 because you can't get harmed in this
+01:08:17.600 process. That's what makes a risk-free
+01:08:20.158 offer so great. You can only benefit.
+01:08:22.479 Now, how much can you benefit? Well,
+01:08:24.000 that can vary. But if you can always get
+01:08:27.040 something for nothing, it doesn't really
+01:08:29.759 matter what that something is. Wouldn't
+01:08:31.600 you agree if I said, &quot;Listen, it doesn't
+01:08:34.640 cost you anything to open up any one of
+01:08:36.799 these 10 safes.&quot;
+01:08:39.120 Now, there's different prizes in each
+01:08:40.719 one of these safes, but all safe
+01:08:42.640 contains a prize. You have only upside,
+01:08:45.600 no downside. This is what's called a
+01:08:46.960 risk-free offer. So what we do here is
+01:08:49.120 we cap the downside.
+01:08:51.279 So there's only upside left. We don't
+01:08:53.520 have to make bigger promises. We just
+01:08:55.600 have to remove more risk. So when you're
+01:08:57.679 contacting creators and you're offering
+01:08:59.600 the game plan in advance,
+01:09:02.479 you're removing the risk.
+01:09:05.439 And when you're allowing them to test
+01:09:07.359 out the demand by posting three stories
+01:09:10.080 on their Instagram before proceeding
+01:09:11.759 further, you're further removing the
+01:09:14.158 risk.
+01:09:15.839 And when you're taking something that
+01:09:17.198 they don't understand and they can't do,
+01:09:20.080 which is to create and launch a product
+01:09:21.600 to that audience, and you are putting it
+01:09:24.000 in front in place for them, so now they
+01:09:27.040 can see how to do it with your help, you
+01:09:30.479 remove the risk further.
+01:09:33.120 And because they don't have to pay you
+01:09:34.640 anything upfront to move forward with
+01:09:37.520 this,
+01:09:39.198 you're removing the risk even further.
+01:09:40.880 Still, the richest people that I know in
+01:09:43.359 this business are not the ones that push
+01:09:45.040 the limits of what's possible on the
+01:09:46.640 value side. Instead, they're vicious
+01:09:49.120 about removing risk. And the more they
+01:09:51.439 can remove the risk, the more money they
+01:09:53.359 make. Success is in the subtraction, my
+01:09:55.840 friend. It's not in the addition. The
+01:09:57.840 more things that you can remove that
+01:09:59.280 would get in the way of being the best
+01:10:00.800 version of you, the easier it is to
+01:10:02.719 become the best version of you. This is
+01:10:04.560 what we're doing as shadow operators.
+01:10:06.239 We're removing the risk for you. We're
+01:10:09.199 removing the risk of you having to go
+01:10:10.880 out and find an audience. We're removing
+01:10:12.960 the risk of you having to put yourself
+01:10:15.199 out there personally, which is frankly
+01:10:17.679 just too much for most of you right now.
+01:10:20.080 We are removing the risk of you having
+01:10:21.679 to figure this out yourself because we
+01:10:23.840 have the best practices in place. We are
+01:10:25.920 removing the risk because we're making
+01:10:27.360 it simple enough for you to manage it
+01:10:29.760 with the least moving parts, yet get a
+01:10:32.159 result that's so significant that it can
+01:10:34.080 completely change your life. Do you
+01:10:37.360 realize
+01:10:39.280 now that this is what's at stake here?
+01:10:41.040 Do you get how profound and powerful
+01:10:43.199 that this can be? If so, put that shadow
+01:10:46.480 operator in the chat. I want to make
+01:10:48.000 sure we're landing and we're vibrating
+01:10:49.440 on the same wavelength and frequency
+01:10:51.199 here. And now, let's really zoom in on
+01:10:53.600 the biggest risk that's going to stop
+01:10:54.880 you from being successful with this
+01:10:56.320 model. And it's called the risk of
+01:10:58.320 rejection. Real talk. When you reach out
+01:11:01.520 to most microcreators,
+01:11:03.679 even with the best strategy possible, a
+01:11:05.920 majority of them are not going to
+01:11:07.360 respond to you. This is just called the
+01:11:10.400 law of variance. It's again, it's not a
+01:11:13.199 you thing. They have many other things
+01:11:14.880 going on in their life. And it doesn't
+01:11:16.159 matter who you are or what message you
+01:11:18.080 present. It's just not going to lead to
+01:11:20.159 a yes. In fact, the most common outcome
+01:11:22.800 that you're going to get when you send a
+01:11:24.560 message to a creator is what?
+01:11:27.280 To be ignored. you're just going to get
+01:11:30.080 ignored. Now, I wouldn't necessarily
+01:11:32.640 call that a rejection. Being ignored is
+01:11:35.040 different than being rejected. So, a
+01:11:37.040 majority of people just are not even
+01:11:38.800 going to notice that you exist. You are
+01:11:40.960 not going to have any significance or
+01:11:42.719 impact on their life. And you just move
+01:11:45.600 on. You should never decide to live your
+01:11:48.640 life based on what other people who will
+01:11:51.840 never think of you might think of you.
+01:11:55.600 There's 78 million creators out there
+01:11:57.679 and you ain't going to get them all.
+01:11:59.199 Now, I know what's holding a lot of you
+01:12:00.640 back and that's you envisioning the
+01:12:02.159 worst possible case scenario here that
+01:12:03.920 you're going to send a message and
+01:12:05.040 somebody's going to get mad and then
+01:12:06.960 they're going to respond back to you in
+01:12:08.320 a vicious manner and that's incredibly
+01:12:11.040 unlikely to happen. It almost never
+01:12:12.640 happens. It's not impossible.
+01:12:15.199 It's just very, very unlikely. It could
+01:12:17.120 happen. And here's why. Some people are
+01:12:20.000 [ __ ] You see them in the chat here
+01:12:22.880 occasionally. [clears throat] they pop
+01:12:24.640 up. There's not that many of them. I peg
+01:12:26.320 about 3% of the population as [ __ ]
+01:12:29.120 So, there are just some people out there
+01:12:30.480 who are unreasonable to the point that
+01:12:32.000 you just have to pity what their life is
+01:12:33.760 like walking around with all of that
+01:12:35.840 anger inside of them. So, yes, let's
+01:12:38.080 acknowledge that it is a possibility
+01:12:41.280 that someone may occasionally respond to
+01:12:43.360 you with something that's less than
+01:12:45.280 pleasant. Again, incredibly unlikely.
+01:12:47.040 But let me just ask you this. Do you
+01:12:48.880 want to stay poor just to minimize the
+01:12:50.640 chance that you might encounter an
+01:12:51.920 [ __ ] here and there? Because guess
+01:12:53.679 what? Poor people are [ __ ] too. And
+01:12:57.920 you will encounter them no matter what
+01:12:59.440 you do. So, you might as well get rich
+01:13:01.440 right now. I know you wouldn't. Most
+01:13:03.199 people would, though. Most people would
+01:13:05.840 actually stay small
+01:13:08.719 because they're so fearful of the risk
+01:13:10.239 of potentially offending somebody who's
+01:13:12.000 already going to be offended.
+01:13:14.560 That's a tragedy. So, please don't be
+01:13:16.320 one of those people. Can you commit to
+01:13:18.560 me that it's okay for you to
+01:13:19.840 occasionally run into an [ __ ] if it
+01:13:22.239 also means that you're going to be more
+01:13:23.760 successful than anyone in your family
+01:13:26.080 lineage has ever previously been?
+01:13:30.400 Listen,
+01:13:32.640 I'm not asking you to maximize your
+01:13:34.560 exposure to [ __ ] Don't do that. Uh
+01:13:36.800 which is again one of the superpowers of
+01:13:38.640 the shadow operating model. We built
+01:13:40.719 this in because we know that this is a
+01:13:42.640 real pain of putting you out there in
+01:13:44.159 public. When you're out in public like I
+01:13:46.320 am right now and like Iman is, there's a
+01:13:48.159 lot of scrutiny. There's a lot of
+01:13:50.159 eyeballs and everybody wants to weigh in
+01:13:53.199 with an opinion. So, if you get some
+01:13:55.440 traction and you're in the public eye,
+01:13:58.000 you get a lot of that. Now, the shadow
+01:14:00.000 operator model already minimizes almost
+01:14:02.480 100% of that friction because you're
+01:14:04.080 never in the spotlight.
+01:14:08.080 We just can't make it completely
+01:14:09.520 disappear. But realize that the outreach
+01:14:12.239 that you're going to do is incredibly
+01:14:14.320 effective. It's valuable. It's give
+01:14:17.760 first. But occasionally, yes, you may
+01:14:20.560 run into somebody who's having a bad
+01:14:22.080 day. But none of that matters once you
+01:14:24.640 close your first deal because you won't
+01:14:26.320 remember all of those other instances
+01:14:28.480 anymore. You'll just remember how much
+01:14:30.800 of an impact that you will have made on
+01:14:33.199 that one creator who desperately needed
+01:14:35.440 you and who is now forever grateful for
+01:14:38.000 the contribution that you've made to
+01:14:39.520 their life. I have one that I'm going to
+01:14:42.159 bring on later as a guest that I shadow
+01:14:45.120 operate for and I'm going to interview
+01:14:46.880 him and you can see you can we can ask
+01:14:49.600 him, right?
+01:14:51.440 Are you up for the tiny chance that you
+01:14:53.280 may encounter some unpleasantness when
+01:14:55.360 it means you also are just one deal away
+01:14:58.400 from completely changing your life? Put
+01:15:00.880 my shadow operators in the chat. Show
+01:15:02.560 up. Represent. Drop that shadow operator
+01:15:04.400 if you're okay with that.
+01:15:06.800 Now, the first deal is the hardest.
+01:15:08.560 That's just the way that it works. You
+01:15:10.320 have zero rep. You're learning a new
+01:15:12.239 system. You don't have any proof for
+01:15:13.840 yourself that it will work for you. I
+01:15:16.159 have my proof. Iman has his proof. We
+01:15:19.360 have so many shadow operators inside of
+01:15:21.120 Monetize that are just crushing it who
+01:15:22.880 have their proof. I have guests that we
+01:15:25.280 brought over the last few days. They all
+01:15:27.199 have proof,
+01:15:29.040 but that's not your proof. You haven't
+01:15:31.679 done it for yourself yet. So, it isn't
+01:15:35.120 real for you yet. So, the first deal is
+01:15:38.800 going to be the hardest. That's why you
+01:15:41.120 should start with the smallest possible
+01:15:42.960 first deal, the easiest one, just to get
+01:15:46.159 that yes. And I really don't even care
+01:15:48.880 how much money it makes you. If it only
+01:15:50.800 makes you 5,000 or 8,000 or 10,000, I'm
+01:15:53.440 going to consider that a massive win
+01:15:55.440 because you went from zero to one. You
+01:15:58.080 went from no deal to a deal. You went
+01:16:00.400 from abstract to reality. You went from
+01:16:02.560 concept to concrete.
+01:16:05.280 You've proven to the world that you have
+01:16:06.880 so much more value inside you than
+01:16:08.640 what's previously been shown. And once
+01:16:10.239 you do that, it's impossible not to
+01:16:12.080 continue to want to continue to do that.
+01:16:14.800 So commit to me that you will do
+01:16:16.400 whatever it takes to make that first
+01:16:18.080 deal. That you will do whatever it takes
+01:16:20.480 to make that first deal. Your first deal
+01:16:22.320 is going to be the hardest deal you make
+01:16:23.920 for the least amount of money with the
+01:16:25.600 most amount of effort. And it's [ __ ]
+01:16:27.440 worth it. Okay? Because you can't get
+01:16:29.760 the second deal without getting the
+01:16:33.520 first deal. You can't make millions of
+01:16:35.679 dollars without that first dollar. You
+01:16:37.440 can't multiply by zero. You can't have
+01:16:39.679 momentum without movement. So, will you
+01:16:42.400 commit to me once and for all that
+01:16:44.080 you're going to make that that first
+01:16:45.679 deal happen?
+01:16:48.560 Even though the first deal is as hard as
+01:16:50.400 it will ever be, it's still easier than
+01:16:53.440 any other model Iman and I could
+01:16:54.880 recommend to get you started right now.
+01:16:57.120 You committed shadow operator, put it in
+01:16:59.199 the chat right now. And now the real
+01:17:01.280 question becomes this. How do you get
+01:17:03.679 there the fastest and with the least
+01:17:05.120 amount of friction? See, when Iman and I
+01:17:07.280 design these events, we do so with two
+01:17:08.960 goals in mind. The first goal is to give
+01:17:10.800 you a full and complete system that if
+01:17:12.719 you absolutely have zero dollars in your
+01:17:14.480 bank account, you could take just the
+01:17:16.159 free advice we give you, apply it, and
+01:17:17.760 get a result with it. We do this because
+01:17:19.840 it feels good knowing that no matter who
+01:17:21.679 you are, no matter where you're at, we
+01:17:23.760 could be of service to you. Now, we also
+01:17:25.760 know that many of you have enough money
+01:17:27.280 to invest and you want to get there
+01:17:29.360 sooner and easier and faster. You want
+01:17:31.280 to compress time. You want to eliminate
+01:17:33.280 mistakes that you would make if you did
+01:17:35.040 it all by yourself. So, if you don't
+01:17:36.800 have uh so if you don't invest money in
+01:17:39.520 tools and training and coaching and
+01:17:41.040 resources to take advantage of shadow
+01:17:42.640 operators, then you have to invest time.
+01:17:44.560 And the crazy thing about doing this on
+01:17:46.159 your own is you end up spending money
+01:17:48.000 anyway because eventually you will run
+01:17:49.679 into a brick wall if you're all by
+01:17:51.120 yourself where you then have to go buy a
+01:17:52.880 sledgehammer and then smash it over. And
+01:17:55.440 I can speak with confidence that any
+01:17:57.280 tool that you will find out there in the
+01:17:58.880 wild will not be as useful to you as the
+01:18:01.440 tools that we provide to you when we
+01:18:04.080 offer you monetize. [snorts] Now, don't
+01:18:06.719 get it twisted. When you invest with us,
+01:18:09.360 you still have to invest your time to
+01:18:10.719 work the system. You still have to
+01:18:12.000 implement. But if we're shaving off
+01:18:13.600 dozens and dozens of hours per week,
+01:18:15.440 making it easier and making it easier
+01:18:18.400 for you to manage, no matter what your
+01:18:19.920 current circumstances are, no matter how
+01:18:21.360 many responsibilities you have that you
+01:18:23.760 could make this work, the fastest way to
+01:18:26.000 being successful as a shadow operator,
+01:18:28.080 the shest way of being successful as a
+01:18:30.000 shadow operator is to get the best
+01:18:32.159 resources, the best tools, the most
+01:18:34.400 support, the best community to get there
+01:18:36.719 as fast as possible. And that's to sign
+01:18:38.960 up with us here today. And if you're
+01:18:40.719 already signed up or if you sign up by
+01:18:42.800 the end of today, I got some insane
+01:18:45.280 timelmited bonuses to sweeten the pot
+01:18:47.760 even further to put more on your side.
+01:18:50.080 So, if you're committed, you have to
+01:18:51.520 invest something. And time is always
+01:18:53.760 part of that investment. We're just
+01:18:55.520 trying to figure out what the right size
+01:18:57.040 of investment is. Do you go at it on
+01:18:58.640 your own or do you go at it with us?
+01:19:00.000 More on that in a second. Now, when I
+01:19:02.159 first started selling online, it wasn't
+01:19:04.560 easy to take money even if people wanted
+01:19:07.120 to give it to you. I had to go and get a
+01:19:09.120 PayPal account. In order to get a PayPal
+01:19:11.360 account, I had to jump through more
+01:19:12.719 hoops than you can even imagine. It felt
+01:19:14.640 like I had to submit a blood test, a DNA
+01:19:16.560 test, and I had to give naming rights to
+01:19:18.800 my first born in order just to be able
+01:19:20.880 to process money online. There was no
+01:19:22.640 stripe back then. Uh, and that was just
+01:19:25.120 to take the money. Then there's the
+01:19:26.640 fulfillment to put a digital product
+01:19:28.320 somewhere that people could access. That
+01:19:29.840 took me three months to figure out and I
+01:19:31.920 had to hire a guy and pay him because he
+01:19:34.159 had to code some PHP database and set it
+01:19:37.040 up for me so I could take orders and
+01:19:39.600 fulfill on products. Hosting was
+01:19:42.080 expensive and complicated and as hell.
+01:19:45.679 And then when I started doing shadow
+01:19:47.199 operator deals, we had to figure out how
+01:19:48.719 to distribute the money. Who would
+01:19:50.080 collect it? Who would be in charge of
+01:19:51.679 it? How would the other person get paid?
+01:19:53.760 When would they get paid? The point
+01:19:55.199 being, it's a very uncomfortable and
+01:19:57.040 delicate situation when it comes to
+01:19:58.880 collecting and distributing money, which
+01:20:00.800 [ __ ] now completely solves for you,
+01:20:03.280 easier than you can ever imagine. Do you
+01:20:05.920 see that behind you? It says, &quot;Earn $10
+01:20:08.880 million on [ __ ] consulting.com. Imagine
+01:20:13.120 processing $10 million without a hiccup.
+01:20:15.520 Just like that. Bam.&quot; I mean, maybe
+01:20:17.199 there was a hiccup or two. Uh, but to be
+01:20:19.920 able to take nothing and go to 10
+01:20:21.679 million just like that, couldn't do it
+01:20:24.000 in my day. Now with [ __ ] you're able to
+01:20:27.199 set up payment distributions where both
+01:20:29.120 people get what they're owed without one
+01:20:31.120 person having to rely on the other since
+01:20:34.159 it all happens automatically through
+01:20:35.520 [ __ ] But [ __ ] also allows you to fulfill
+01:20:38.239 digital products there, too. The people
+01:20:41.040 who buy your products can get access to
+01:20:43.040 them right inside of [ __ ] And the
+01:20:45.679 fulfillment is super simple and super
+01:20:47.679 intuitive. And [ __ ] is completely free.
+01:20:50.640 You don't have to pay anything to use
+01:20:52.000 it. It operates like any merchant
+01:20:54.880 operates. It takes a small percentage uh
+01:20:57.840 of the sales that it transacts.
+01:21:01.520 You now have the ability to collect
+01:21:03.360 money frictionlessly
+01:21:06.320 and deliver the product
+01:21:08.800 frictionlessly.
+01:21:11.040 When you combine this with AI,
+01:21:13.199 especially some of the cutting AI that
+01:21:14.719 we put out at for shadow operators, and
+01:21:17.600 we've updated this specifically to help
+01:21:19.520 shadow operators, it now makes the
+01:21:21.920 shadow operator model, which has always
+01:21:23.520 been so powerful and effective, about 10
+01:21:25.760 times more powerful now and 10 times
+01:21:28.239 easier. I'm telling you, my friend, this
+01:21:31.120 is the perfect time in history to be a
+01:21:34.239 shadow operator. You feel me? Put the
+01:21:37.280 shadow operator in the chat if you do.
+01:21:39.360 Which leads me to the final piece of the
+01:21:41.520 puzzle before I reveal all these insane
+01:21:44.080 session only bonuses that I have
+01:21:45.760 available while we're live here today.
+01:21:48.000 If you've already locked your spot in,
+01:21:49.520 you've got these three bonuses. If you
+01:21:51.360 haven't yet, if you lock it in before
+01:21:52.719 the end of the session today, you get
+01:21:54.080 these. But here's the last secret. I am
+01:21:57.040 here because I'm a shadow operator.
+01:21:59.760 This is why Iman tapped into me in the
+01:22:01.840 first place before we ever conceived of
+01:22:03.679 of launching a shadow operator model
+01:22:07.440 because I came in last year to help out
+01:22:10.320 with a different project. The reason I'm
+01:22:13.360 even before you is because Iman knew my
+01:22:16.800 reputation as a shadow operator and he
+01:22:19.760 knew what I could bring to the table.
+01:22:21.679 And when he reached out to me last year,
+01:22:24.159 the reason I said yes to him, yes to
+01:22:27.199 traveling 16 hours by airplane, yes to
+01:22:30.560 spending two weeks away from my family,
+01:22:33.280 yes to working tirelessly nearly every
+01:22:35.679 day around the clock for you is very
+01:22:38.960 simple. I only work with the best,
+01:22:42.800 not just the best at what they do. What
+01:22:45.360 I mean is I only work with the best
+01:22:47.679 offers. And this is so great for you as
+01:22:50.560 a shadow operator. Soon you get to be in
+01:22:52.480 the seat where you get to choose who you
+01:22:55.120 work with and what you represent.
+01:22:58.320 I only work with the best offers to the
+01:23:00.239 audience that those offers serve. And
+01:23:02.080 when it comes to shadow operating head
+01:23:04.480 and shoulders beyond anything else, Iman
+01:23:06.719 and his crew have provided you with the
+01:23:08.800 best opportunity of doing shadow
+01:23:10.320 operating possible. And I put my
+01:23:12.400 reputation on it. Now, in part, this is
+01:23:15.280 because of Iman's ownership stake in
+01:23:16.880 WAP. See, his big incentive here isn't
+01:23:19.199 to sell you a 1995 program, whatever,
+01:23:21.760 right? That's not going to make him it's
+01:23:23.840 not going to really do anything for him,
+01:23:25.199 right? In fact, when you factor in all
+01:23:27.840 of the cost involved in the fulfillment
+01:23:29.679 on this, all of the support, all the
+01:23:31.760 effort effort and my hefty hefty fee
+01:23:34.880 that goes on top of it to be a part of
+01:23:36.560 this, there's not much margin left. The
+01:23:39.840 real value, the real long-term play is
+01:23:42.480 that if we can get more shadow operators
+01:23:44.560 in place on [ __ ] then the value of [ __ ]
+01:23:47.600 goes up. And Iman's share as a result is
+01:23:50.639 worth far more than whatever we can make
+01:23:53.120 from launches like this if we did 10
+01:23:55.120 launches a year like this. Now, this is
+01:23:57.920 the power you have as a shadow operator.
+01:24:00.080 You get to pick and choose who you work
+01:24:03.040 with. While it's true you can take
+01:24:04.880 advantage of any opportunity,
+01:24:08.159 I suggest that you work with
+01:24:09.280 microcreators whose values align with
+01:24:11.679 yours. You work with microcreators who
+01:24:14.080 are putting good things out in the
+01:24:15.360 world. You work with microcreators who
+01:24:16.960 are making the world better. You work
+01:24:18.480 with microcreators who are serving their
+01:24:20.960 audiences well.
+01:24:23.440 And that way you can help them serve
+01:24:26.719 even better. if you took what they did
+01:24:29.600 and if you put it into the right type of
+01:24:31.360 digital product, which our specialized
+01:24:33.520 AI software allows you to do quicker and
+01:24:35.280 easier than ever before. Keep in mind,
+01:24:37.440 we've only discussed one of the 17
+01:24:39.360 strategies available to you during this
+01:24:41.199 workshop. We only broke down the
+01:24:43.120 Instagram shadow operator formula to
+01:24:45.040 you. There are other formulas. We did
+01:24:47.040 that because it's the easiest one to
+01:24:48.639 start with, carries the least amount of
+01:24:50.320 risk, and is the most universally
+01:24:51.840 applicable to all the audiences that we
+01:24:53.760 reach on this workshop. Now, once you
+01:24:56.400 get inside of Monetize, you're going to
+01:24:58.400 see all the strategies laid bare in
+01:25:00.239 front of your very eyes. Plus, I'm going
+01:25:01.600 to sweeten the pot. I have three
+01:25:03.679 incredible bonuses. The retail cost of
+01:25:06.239 these bonuses, if you were to buy them
+01:25:08.400 separately, because yes, these are
+01:25:10.480 products that I sell on the open market,
+01:25:13.199 would total more than your investment in
+01:25:15.040 the whole monetized package here today.
+01:25:17.280 That's why I'm only making these bonuses
+01:25:19.120 available while we are here live today.
+01:25:22.320 the moment that I shut this webinar
+01:25:24.000 down, these bonuses will disappear. So,
+01:25:26.480 as long as you sign up before the end of
+01:25:28.480 our time today, or if you've already
+01:25:30.400 signed up, then you're going to get some
+01:25:31.920 super extra special bonuses. I have
+01:25:34.400 three killer bonuses before I reveal
+01:25:36.239 them. Let me run back through exactly
+01:25:38.239 what you're going to get when you say
+01:25:39.440 yes to monetize here today. First thing
+01:25:42.080 you're going to get is a 100 prevetted
+01:25:44.320 creators.
+01:25:46.239 We've manually sourced 100 creators for
+01:25:49.280 each and every single one of you because
+01:25:51.120 we want to get the ball rolling. We want
+01:25:53.360 to get you started. So, if I can stack
+01:25:56.080 the deck in your favor so the one less
+01:25:58.000 thing you have to do is go and find
+01:25:59.760 who's the first hundred micro creators I
+01:26:01.600 should reach out to, Jason. I say,
+01:26:02.800 &quot;Don't worry about it. You I've already
+01:26:04.560 put them in the system for you. Here's
+01:26:06.639 your hundred. You get a hundred and you
+01:26:08.800 get a hundred and you get a hundred and
+01:26:10.400 you get a hundred. You get the best
+01:26:12.880 microcreators that are best suited to be
+01:26:14.880 shadow operators for and all of you get
+01:26:17.040 your own unique batch of a hundred.
+01:26:19.920 And so this is super incredibly
+01:26:21.600 valuable. Costs tremendous amounts of
+01:26:23.840 monies uh on our end to do this service
+01:26:26.080 for you and you get it as part of the
+01:26:28.320 deal when you sign up for monetize. The
+01:26:30.159 second thing you get is flows and flows
+01:26:32.960 is super powerful and the average person
+01:26:34.960 who pays for it uh pays over $1,000 per
+01:26:38.000 year for access. You get this as part of
+01:26:40.639 the deal. Flozzy's what's called a
+01:26:43.040 content or sorry client relationship
+01:26:45.199 management software and you could run
+01:26:47.679 your whole service uh entire shadow
+01:26:50.239 operation business on it. When you sign
+01:26:52.159 up for monetizer, Floss is going to come
+01:26:53.920 in with those 100 creator leads and you
+01:26:57.679 can see how easy it is to work them.
+01:26:59.920 They go from new lead, contacted,
+01:27:02.560 qualified, proposal, etc., etc. You will
+01:27:06.000 run your whole business through this
+01:27:07.360 dashboard and it will be a godsend for
+01:27:09.280 you. To date, 50,000 plus businesses
+01:27:12.960 have used Flowzy and they have closed
+01:27:15.440 over $35 million in revenue through it.
+01:27:19.199 So, if you want to be a pro, you got to
+01:27:21.120 use the tools the pros use. Flozzy is
+01:27:23.679 the pro tool for the shadow operators
+01:27:26.400 and it's going to become loaded with a
+01:27:28.400 100 prevetted creators for you. You're
+01:27:30.960 also going to get ghostriter. This is a
+01:27:33.600 collection of specialized AI agents that
+01:27:36.000 are going to write everything needed for
+01:27:38.239 you to shadow operate. It has these zero
+01:27:41.520 prompt agents, which I love to death
+01:27:43.760 because we've done all the pre-prompting
+01:27:46.480 for you. You just fill in a couple
+01:27:48.560 blanks and it will customize all of the
+01:27:51.520 best uh campaigns that need to be
+01:27:54.159 developed to launch these products for
+01:27:56.639 the microcreators. And this does this
+01:27:59.040 for you better than any other AI that
+01:28:01.199 you could find on the planet. Ghostriter
+01:28:03.440 OS. Now, we scratched the surface of
+01:28:05.520 what Ghostriter OS can do uh during this
+01:28:08.239 workshop. But it is it is so much more
+01:28:12.080 than just what we're talking about as it
+01:28:13.920 relates to specifically say creating the
+01:28:16.400 Instagram story sequence for you, which
+01:28:18.239 it can do in a couple clicks of a button
+01:28:19.920 in a few minutes. It's insane. It can
+01:28:22.320 also create the monetization game plan
+01:28:24.800 for you. Again, couple clicks of a
+01:28:26.639 button, few minutes. This is your tool
+01:28:28.800 that's going to get the microcreators to
+01:28:30.560 say yes to you. It will launch their
+01:28:32.880 story sequence for them as well. And
+01:28:34.639 I'll tell you, this is just the tip of
+01:28:37.040 the iceberg of all of the awesomeness
+01:28:39.280 that Ghostriter OS has for you. Iman has
+01:28:42.560 spent over a half a million dollars in
+01:28:45.040 licensing fees just to be able to
+01:28:47.760 distribute this software to you freely
+01:28:50.560 as part of the monetized package. You're
+01:28:52.800 also going to get this other software
+01:28:54.159 called Synthesize AI. Synthesize AI will
+01:28:57.600 allow you to automatically create the
+01:29:00.400 structure of the best digital product
+01:29:02.400 possible for each microcreator that
+01:29:05.920 you're going to partner with. It just
+01:29:08.239 got a massive upgrade. So, my existing
+01:29:11.679 monetized members that I know are here
+01:29:13.360 from our previous launches, make sure to
+01:29:15.440 go back in and use that again because
+01:29:16.960 this thing is just like doubled in
+01:29:18.880 value. And by the way, once you're a
+01:29:20.719 monetized me member, the re the last
+01:29:23.360 monetized members got all these upgrades
+01:29:24.960 for free because that's how we take care
+01:29:26.239 of our customers, right? Um, previous
+01:29:29.040 monetized users use Synthesize and
+01:29:31.920 Ghostriter to help them generate $15
+01:29:34.480 million in sales in their first 90 days.
+01:29:37.679 So, we run these monetized mania
+01:29:39.679 contests and we track the results of new
+01:29:42.239 signups and how many sales that they
+01:29:44.800 make. In aggregate, the last launch we
+01:29:46.960 did in October, $15 million in sales
+01:29:51.040 from its members who were using the
+01:29:53.040 tools like Synthesize and like Shadow
+01:29:55.440 Operator, uh, sorry, Ghostriter OS to
+01:29:58.000 Shadow Operate. Synthesize AI is a
+01:30:00.480 $3,000 per year tool that you get for
+01:30:03.040 free as part of the package at Monetize
+01:30:05.120 here. Then you get the Shadow Operator
+01:30:07.120 playbook. I love this thing. This is
+01:30:09.440 Netflix level production. Every word is
+01:30:12.320 scripted out and shot perfectly step by
+01:30:15.600 step after analyzing thousands of
+01:30:18.400 interactions with customers just like
+01:30:20.560 you to best shape this playbook to
+01:30:23.360 follow step by step of exactly what to
+01:30:25.280 do at each part of the process uh from
+01:30:27.679 beginning to end to close the shadow
+01:30:29.360 operating deals and to fulfill on them.
+01:30:31.760 You'll get it from getting the starting
+01:30:33.120 with the business model, signing your
+01:30:34.639 first deal, uh landing your first uh
+01:30:37.120 creator launch, scaling to multiple
+01:30:39.120 creators, and so on and so forth. These
+01:30:41.280 types of trainings easily could go for
+01:30:42.960 $5,000. You get it as part of the deal
+01:30:45.360 in the monetized package. Plus, you get
+01:30:48.080 to be certified as a qualified AI shadow
+01:30:51.760 operator. Not just certified easy peasy,
+01:30:54.560 right? I'm talking certified by
+01:30:56.320 consulting.com.
+01:30:58.177 [snorts] That's a ballerass domain
+01:31:00.480 domain name. It's a million-dollar plus
+01:31:02.800 domain name in and of itself. So, if
+01:31:04.560 somebody sees you're certified from a
+01:31:06.639 domain name like that, consulting.com
+01:31:08.719 with a certificate, that's going to be
+01:31:10.880 your your credibility to close that
+01:31:13.040 first deal in and of itself. Super duper
+01:31:15.840 powerful. And consulting.com is the
+01:31:17.280 number one consulting firm in the world.
+01:31:18.800 Now, you have to pass a test, which
+01:31:20.719 means you go through the playbook and
+01:31:22.080 when you're done, you take the test to
+01:31:23.679 get certified. And then you will have a
+01:31:26.000 certification to help assist you when
+01:31:27.920 you go out and close these micro
+01:31:29.360 creators and do these shadow operator
+01:31:31.520 deals. And here's the incentive to do
+01:31:33.840 so. You get a free entry into Monetize
+01:31:36.400 Mania 3. Starting January 20th, we're
+01:31:39.280 kicking off a 90-day competition between
+01:31:41.520 everyone who has joined this round of
+01:31:43.520 Monetize. 90 days from now, five
+01:31:45.679 individuals who finish at the top will
+01:31:47.520 get a complimentary seat at the next
+01:31:49.920 Quantum Mastermind. Now, I was at the
+01:31:52.159 previous quantum mastermind in South
+01:31:54.159 Africa that is worth its weight in gold.
+01:31:57.920 Everybody that attended there pays
+01:31:59.440 $25,000 to be in that group. Uh you
+01:32:02.560 cannot not
+01:32:05.120 make money if you are in that room. This
+01:32:07.520 is an exclusive experience. Clients pay
+01:32:10.159 25,000 to join. You get a ticket if
+01:32:12.159 you're one of the top five producers as
+01:32:14.560 a shadow operator in the next 90 days
+01:32:17.360 starting on January 20th. So, let's
+01:32:19.520 recap what you get when you say yes to
+01:32:21.600 the monetized package today. You get 100
+01:32:23.760 prevetted creators handpicked by us.
+01:32:26.000 This is worth thousands and thousands of
+01:32:27.760 dollars. They come preloaded into your
+01:32:29.679 client management system, a system that
+01:32:31.760 we've had 50,000 businesses use to close
+01:32:34.480 over $35 million in revenue with. You
+01:32:37.440 get ghostriter OS, a specialized AI tool
+01:32:40.880 that is designed specifically to help
+01:32:42.880 you as a shadow operator. the you get
+01:32:45.760 unlimited access to synthesize AI, the
+01:32:48.400 tool that's going to help you develop
+01:32:49.600 the digital products for your
+01:32:51.360 microcreators. You get the shadow
+01:32:53.360 operating playbook with the step-by-step
+01:32:55.440 walkthrough on how to get this
+01:32:56.800 opportunity starting from scratch. You
+01:32:58.960 get the consulting certificate that
+01:33:00.480 officially recognizes you as a
+01:33:02.000 consulting.com qualified AI shadow
+01:33:04.239 operator. You get your golden ticket to
+01:33:06.159 monetize mania at your chance to win a
+01:33:08.400 seat to be in the same room as shadow
+01:33:10.159 operators making hundreds of thousands
+01:33:11.760 and in some cases a million dollars plus
+01:33:14.080 a month. The last time we opened this
+01:33:16.159 monetized users generated $15 million
+01:33:18.960 during that contest and users who got a
+01:33:21.280 product live average $60,03
+01:33:24.000 in earnings. The total investment for
+01:33:26.480 this package just on the things if you
+01:33:28.560 had to purchase them separately would be
+01:33:30.719 $8,561.
+01:33:33.920 Not to mention all the stuff you
+01:33:35.280 couldn't buy. So, at 5,000, this is an
+01:33:38.000 incredible deal, which is why it's an
+01:33:39.600 absolute no-brainer for you to sign up
+01:33:41.920 right now at the special deal of 1995.
+01:33:45.199 And it also can be financed uh if you
+01:33:48.639 qualify. Financing is available, and in
+01:33:50.639 fact, it's the most flexible financing
+01:33:52.320 you'll find anywhere in the world. So,
+01:33:54.000 if you're ready to finally build an
+01:33:56.080 online income using AI as a shadow
+01:33:58.719 operator so you don't have to put your
+01:34:00.320 face out there, then click the link that
+01:34:02.719 is going to drop in the live chat in
+01:34:05.600 three, two,
+01:34:08.880 one
+01:34:10.719 now. So, you'll see it. We'll pin it
+01:34:13.440 into the chat uh here on the YouTube
+01:34:15.760 live. If you prefer, you can just go
+01:34:18.159 straight to joinemon.com.
+01:34:20.719 Both of them will take you to the same
+01:34:22.159 location. This is where you can get
+01:34:24.000 registered. This is where you can get
+01:34:25.840 signed up. And when you sign up, I have
+01:34:28.159 three exclusive bonuses for you
+01:34:30.080 available only while we are here live
+01:34:33.120 today. The first bonus I have for you is
+01:34:35.600 called GOAT webinars because I am the
+01:34:37.760 goat at webinars, greatest of all times.
+01:34:40.960 Uh, everyone calls me that, right? A
+01:34:43.840 couple years back, somebody says,
+01:34:46.080 &quot;Jason, you should put together a
+01:34:47.679 program on all the webinars you've ever
+01:34:49.440 done.&quot; So, I went through 17 years of
+01:34:52.320 success doing webinars and I isolated
+01:34:55.280 and found every single webinar that I
+01:34:56.960 did that was successful. I discovered I
+01:34:58.880 had 32 webinars that had generated at
+01:35:00.639 least six figures, many of them seven
+01:35:02.400 figures. But here's what I discovered
+01:35:04.400 when I went back and analyzed them
+01:35:06.159 before uh I did this launch today with
+01:35:08.560 Iman. Half of those webinars were for
+01:35:11.440 shadow operator products. These are
+01:35:13.840 pitches that I've constructed and offers
+01:35:15.600 that I've made and courses that I've
+01:35:17.520 laid out and designed based upon shadow
+01:35:19.520 operating principles.
+01:35:21.920 Meaning, I was publishing, selling uh
+01:35:25.440 other people's products that I did not
+01:35:27.120 create to audiences I did not assemble.
+01:35:29.679 So, I figured the best way to help
+01:35:31.120 empower you to be a shadow operator was
+01:35:32.960 to give you undeniable proof of the best
+01:35:34.960 shadow operating plans that I've ever
+01:35:37.120 run across my very long and incredibly
+01:35:39.360 successful career. So, you're going to
+01:35:41.199 get a master class on everything that
+01:35:43.440 comes along with persuasion, how to make
+01:35:45.280 these offers, how to package them up and
+01:35:47.520 ideal ways to extract maximum values
+01:35:49.920 from marketplaces, how to sell at the
+01:35:51.760 highest price possible and still have
+01:35:53.440 the best deals. And this is an immense
+01:35:55.600 value you can then shift into the hands
+01:35:58.080 of the microcreators.
+01:36:00.080 You can go to goebinars.com.
+01:36:02.560 This is a program that we retail for
+01:36:04.400 every day at $24.97. And people buy it
+01:36:07.280 every day by word of mouth for $2,497.
+01:36:11.120 So, it would literally cost you more
+01:36:12.800 just to own my program if you bought it
+01:36:15.440 direct from me than it would be if you
+01:36:16.880 invested in Monetize. You are going to
+01:36:19.600 get it for free when you invest in
+01:36:22.159 Monetize as long as you invest today.
+01:36:24.719 And you can you'll get it for free even
+01:36:27.520 if you finance your investment in
+01:36:29.440 monetize. As long as you can sign up for
+01:36:31.199 monetize, I am going to email you access
+01:36:35.040 to go webinars. As if you paid $2,495
+01:36:38.880 for it, you are going to get it 100% for
+01:36:41.600 free. In addition, here's the second
+01:36:43.679 bonus I got for you. It's called Murder
+01:36:46.000 the Objection. This was a small closed
+01:36:48.400 door program that I did for businesses
+01:36:50.080 that were making at least seven figures
+01:36:51.840 or more. I charged $5,000 per person to
+01:36:55.119 attend. And for two days, I taught my
+01:36:57.760 most powerful persuasion formula that I
+01:36:59.920 ever existed. And I told you about it
+01:37:01.679 earlier. If you remove the reasons to
+01:37:04.239 say no, you will sell more than if you
+01:37:07.360 just try to get people to say yes. Real
+01:37:10.400 sales happen when you remove the reasons
+01:37:12.159 to say no, not increase the reasons to
+01:37:13.840 say yes. The biggest successes I've
+01:37:15.679 experienced as a shadow operator is the
+01:37:17.360 ability to remove risk from partners
+01:37:18.960 that I shadow operate with. And then as
+01:37:21.280 an extension of that, when we launch to
+01:37:23.119 their audiences, we remove the risk for
+01:37:25.679 the audience. So it becomes more
+01:37:27.280 expensive for the audience to say no
+01:37:29.520 than it does to say yes. Murder the
+01:37:31.600 objection. If you go to murder
+01:37:32.880 theobjection.com,
+01:37:34.719 if you were to purchase the recordings,
+01:37:36.639 it would cost you $1,500.
+01:37:39.600 I'm going to give you the whole training
+01:37:41.760 program, about 16 hours worth for free.
+01:37:45.520 So, when you add up these two bonuses
+01:37:47.360 that I'm offering you here today, if you
+01:37:50.239 sign up before the end of our time as we
+01:37:52.320 are live here today, or if you've
+01:37:53.600 previously signed up to buy Goat
+01:37:56.320 Webinars and Murder the Objection from
+01:37:58.239 their websites right now would cost you
+01:38:00.239 $4,000.
+01:38:02.080 I'm literally giving you 4,000 in actual
+01:38:04.320 retail price products for free when you
+01:38:06.480 invest and monetize for just $19.95 or
+01:38:09.440 when you finance it. Then the last
+01:38:11.600 bonus, I'm going to do a live Q&amp;A in
+01:38:14.159 early February. Okay, this is
+01:38:16.880 exclusively for monetized members who
+01:38:19.040 have already signed up or signed up
+01:38:20.400 before the end of this session. This is
+01:38:22.639 an ask me anything. This is where you
+01:38:24.639 can literally ask me any and everything
+01:38:26.159 that you want related to shadow
+01:38:27.760 operating. And I tend to go long. I
+01:38:30.320 don't know if you've noticed that,
+01:38:31.280 right? I tend to really hang in there
+01:38:33.199 until I I can really connect with you.
+01:38:35.199 This is a pure training session. Uh, I
+01:38:37.679 will expose the greatest secrets that I
+01:38:39.520 know as a shadow operator. And Iman
+01:38:42.080 says, I'm the greatest of all time when
+01:38:43.920 it comes to shadow operating with this
+01:38:45.600 model. I will spill the secrets of
+01:38:47.040 everything that I've ever done as one of
+01:38:49.280 the most successful or maybe the most
+01:38:50.719 successful shadow operator in history. I
+01:38:52.400 will show you how I close deals, how I
+01:38:53.840 get people to approach me, how I
+01:38:55.199 approach other people, and how we make
+01:38:57.040 millions of dollars operating inside of
+01:38:58.719 the shadows. All of these bonuses are
+01:39:00.639 exclusive to you as a monetized member
+01:39:02.719 as long as you have already signed up or
+01:39:04.480 signed up before we end the session here
+01:39:07.440 today. So hopefully I made the value
+01:39:10.239 clear to you of what's at stake.
