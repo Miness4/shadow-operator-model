@@ -147,3 +147,28 @@ export const MODULE_COLORS = {
     border: 'border-flowy',
   },
 } as const;
+
+// Auth-related types
+export interface UserProfile {
+  id: string;
+  email: string | null;
+  full_name: string | null;
+  avatar_url: string | null;
+  preferred_model: string;
+  settings: Record<string, unknown>;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface AuthState {
+  isSupabaseAuthenticated: boolean;
+  isPuterAuthenticated: boolean;
+  isFullyAuthenticated: boolean;
+  isLoading: boolean;
+}
+
+export interface PuterUser {
+  username: string;
+  uuid: string;
+  email?: string;
+}

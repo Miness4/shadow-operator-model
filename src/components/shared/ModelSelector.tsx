@@ -1,28 +1,37 @@
 'use client';
 
 import * as React from 'react';
-import { Check, ChevronDown, Cpu } from 'lucide-react';
+import { Check, ChevronDown, Cpu, Lock } from 'lucide-react';
 import { cn } from '@/lib/utils/cn';
 import { AI_MODELS, type AIModel } from '@/types';
+import { useProfile } from '@/hooks/useProfile';
+import { usePuterAuth } from '@/stores/auth';
 
-interface ModelSelectorProps {
-  value?: string;
-  onValueChange?: (value: string) => void;
-}
-
-export function ModelSelector({
-  value,
-  onValueChange,
-}: ModelSelectorProps): React.ReactElement {
+/**
+ * ModelSelector component
+ *
+ * Allows users to select their preferred AI model.
+ * - Integrates with Zustand store for state management
+ * - Persists preference to Supabase via useProfile hook
+ * - Shows disabled state when Puter auth is not connected
+ */
+export function ModelSelector(): React.ReactElement {
   const [open, setOpen] = React.useState(false);
-  const [selectedModel, setSelectedModel] = React.useState<AIModel | undefined>(
-    AI_MODELS.find((m) => m.id === value) ?? AI_MODELS.find((m) => m.isDefault)
-  );
+  const { profile, updatePreference } = useProfile();
+  const { isAuthenticated: isPuterAuthenticated } = usePuterAuth();
 
-  const handleSelect = (model: AIModel): void => {
-    setSelectedModel(model);
-    onValueChange?.(model.id);
+  // Get selected model from profile or default
+  const selectedModelId = profile?.preferred_model ?? 'claude-opus-4.5';
+  const selectedModel = AI_MODELS.find((m) => m.id === selectedModelId) ?? AI_MODELS.find((m) => m.isDefault);
+
+  const handleSelect = async (model: AIModel): Promise<void> => {
     setOpen(false);
+
+    try {
+      await updatePreference(model.id);
+    } catch (error) {
+      console.error('Failed to update model preference:', error);
+    }
   };
 
   const getTierColor = (tier: AIModel['tier']): string => {
@@ -36,17 +45,27 @@ export function ModelSelector({
     }
   };
 
+  // Show disabled state if Puter not authenticated
+  const isDisabled = !isPuterAuthenticated;
+
   return (
     <div className="relative">
       <button
-        onClick={() => setOpen(!open)}
+        onClick={() => !isDisabled && setOpen(!open)}
+        disabled={isDisabled}
         className={cn(
           'flex items-center gap-2 rounded-lg border border-border bg-bg-tertiary px-3 py-2 text-sm',
           'hover:bg-bg-elevated transition-colors',
-          'focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 focus:ring-offset-background'
+          'focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 focus:ring-offset-background',
+          isDisabled && 'cursor-not-allowed opacity-50'
         )}
+        title={isDisabled ? 'Connect AI to select model' : undefined}
       >
-        <Cpu className="h-4 w-4 text-muted-foreground" />
+        {isDisabled ? (
+          <Lock className="h-4 w-4 text-muted-foreground" />
+        ) : (
+          <Cpu className="h-4 w-4 text-muted-foreground" />
+        )}
         <span className="font-medium">{selectedModel?.name ?? 'Select Model'}</span>
         <ChevronDown
           className={cn(
@@ -56,7 +75,7 @@ export function ModelSelector({
         />
       </button>
 
-      {open && (
+      {open && !isDisabled && (
         <>
           {/* Backdrop */}
           <div
@@ -97,5 +116,14 @@ export function ModelSelector({
         </>
       )}
     </div>
+  );
+}
+
+/**
+ * Skeleton version of ModelSelector for loading states
+ */
+export function ModelSelectorSkeleton(): React.ReactElement {
+  return (
+    <div className="h-9 w-36 animate-pulse rounded-lg bg-bg-tertiary" />
   );
 }

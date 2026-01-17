@@ -1,20 +1,22 @@
 # GET-STARTED.md - SHADOWCORE Quick Reference
 
-> **Last Updated:** 2026-01-16
-> **Phase:** 1 Complete
-> **Status:** Foundation Ready
+> **Last Updated:** 2026-01-17
+> **Phase:** 2 Complete
+> **Status:** Authentication Ready
 
 ---
 
 ## Current State
 
-Phase 1 of SHADOWCORE is complete. The foundation includes:
+Phase 2 of SHADOWCORE is complete. The foundation includes:
 
 - **Next.js 16** with TypeScript strict mode
 - **Tailwind CSS v4** with dark theme (CSS-first configuration)
 - **Supabase** client/server setup with proxy.ts auth
+- **Google OAuth** authentication via Supabase
+- **Puter.js** AI integration with lazy authentication
 - **3-Tab Navigation**: Synthesio, Ghostwrite, Flowy
-- **AI Model Selector** with 6 models configured
+- **AI Model Selector** with 6 models and preference persistence
 - **Complete Database Schema** with RLS policies
 
 ---
@@ -35,23 +37,61 @@ Create `.env.local` in the project root:
 NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
 SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+NEXT_PUBLIC_APP_URL=https://your-codespace-url.github.dev
 APIFY_TOKEN=your-apify-token
 ```
 
-### 3. Run Development Server
+**IMPORTANT:** Set `NEXT_PUBLIC_APP_URL` to your Codespace/environment URL.
+
+### 3. Configure Google OAuth
+
+1. Go to Google Cloud Console > APIs & Services > Credentials
+2. Add authorized redirect URI: `{NEXT_PUBLIC_APP_URL}/auth/callback`
+3. Ensure Supabase has Google OAuth provider enabled
+
+### 4. Run Development Server
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000)
+Open your Codespace URL (not localhost)
 
-### 4. Run Database Migrations
+### 5. Run Database Migrations
 
 Execute the schema in Supabase SQL Editor:
 
 ```bash
 # Copy contents of supabase/schema.sql to Supabase Dashboard > SQL Editor
+```
+
+---
+
+## Authentication Flow
+
+### Login Flow
+1. User clicks "Continue with Google" on `/login`
+2. Supabase redirects to Google OAuth
+3. Google redirects to `/auth/callback`
+4. Session created, profile upserted
+5. User redirected to `/synthesio`
+
+### Puter AI Authentication
+- Triggered lazily when user accesses AI features
+- "Connect AI" pill in header shows status
+- Model selector disabled until Puter connected
+- ProtectedFeature wrapper gates AI components
+
+### Auth State Management
+```tsx
+// Combined auth hook
+const { user, signOut, isFullyAuthenticated } = useAuth();
+
+// Check if AI features available
+const { isAuthenticated: hasPuterAuth } = usePuterAuth();
+
+// Access/update profile
+const { profile, updatePreference } = useProfile();
 ```
 
 ---
@@ -67,37 +107,46 @@ Execute the schema in Supabase SQL Editor:
 │   │   │   ├── synthesio/         # Product Architect
 │   │   │   ├── ghostwrite/        # Copywriting OS
 │   │   │   └── flowy/             # CRM
-│   │   ├── api/health/            # Health check endpoint
+│   │   ├── api/
+│   │   │   ├── health/            # Health check
+│   │   │   └── user/              # User profile/preferences
+│   │   ├── auth/callback/         # OAuth callback
 │   │   ├── globals.css            # Tailwind v4 theme
-│   │   ├── layout.tsx             # Root layout
-│   │   └── page.tsx               # Landing page
+│   │   └── layout.tsx             # Root layout with Providers
 │   ├── components/
-│   │   ├── ui/                    # Base UI components
-│   │   └── shared/                # Shared components
-│   │       ├── AppShell.tsx       # Main layout wrapper
-│   │       ├── TabNavigation.tsx  # 3-tab nav
-│   │       └── ModelSelector.tsx  # AI model dropdown
+│   │   ├── auth/                  # Auth components
+│   │   │   ├── LoginButton.tsx    # Google OAuth button
+│   │   │   ├── PuterAuthModal.tsx # Puter connection modal
+│   │   │   └── ProtectedFeature.tsx # AI feature gate
+│   │   ├── providers/             # Context providers
+│   │   │   ├── AuthProvider.tsx   # Supabase auth
+│   │   │   └── PuterProvider.tsx  # Puter SDK
+│   │   ├── shared/                # Shared components
+│   │   │   ├── AppShell.tsx       # Main layout wrapper
+│   │   │   ├── UserMenu.tsx       # User dropdown
+│   │   │   ├── AuthStatusPill.tsx # Puter status
+│   │   │   ├── TabNavigation.tsx  # 3-tab nav
+│   │   │   └── ModelSelector.tsx  # AI model dropdown
+│   │   └── skeletons/             # Loading skeletons
+│   ├── hooks/
+│   │   ├── useAuth.ts             # Combined auth hook
+│   │   ├── useProfile.ts          # Profile management
+│   │   └── useAI.ts               # AI operations
+│   ├── stores/
+│   │   └── auth.ts                # Zustand auth store
 │   ├── lib/
-│   │   ├── supabase/              # Supabase clients
-│   │   │   ├── client.ts          # Browser client
-│   │   │   ├── server.ts          # Server client
-│   │   │   └── proxy.ts           # Auth proxy helper
-│   │   └── utils/
-│   │       └── cn.ts              # Class name utility
+│   │   └── supabase/              # Supabase clients
 │   └── types/
 │       ├── database.ts            # Supabase types
+│       ├── puter.d.ts             # Puter SDK types
 │       └── index.ts               # Shared types
 ├── proxy.ts                       # Next.js 16 auth proxy
 ├── supabase/
 │   └── schema.sql                 # Database schema
-├── docs/
-│   ├── brain/                     # Memory system
-│   │   ├── chains/                # Multi-step reasoning
-│   │   ├── learnings/             # Technology discoveries
-│   │   └── _index.md              # Brain index
-│   └── research/                  # Integration guides
-├── prompts/                       # AI prompt templates
-└── resources/                     # Workbooks & transcripts
+└── docs/
+    ├── brain/                     # Memory system
+    ├── phases/                    # Phase completion markers
+    └── research/                  # Integration guides
 ```
 
 ---
@@ -109,28 +158,29 @@ Execute the schema in Supabase SQL Editor:
 | `npm run dev` | Start development server |
 | `npm run build` | Production build |
 | `npm run start` | Start production server |
-| `npm run lint` | Run ESLint |
-| `npm run typecheck` | Run TypeScript check |
+| `npm run lint` | Run ESLint (must be 0 warnings) |
 
 ---
 
-## Key Files to Know
+## Key Components
 
-### Configuration
-- `tsconfig.json` - TypeScript strict mode enabled
-- `postcss.config.mjs` - Tailwind v4 PostCSS config
-- `proxy.ts` - Next.js 16 auth proxy (not middleware!)
+### Auth Components
+- `<LoginButton />` - Google OAuth login
+- `<UserMenu />` - User avatar with dropdown
+- `<AuthStatusPill />` - Puter connection status
+- `<PuterAuthModal />` - AI connection prompt
+- `<ProtectedFeature />` - Wrap AI features
 
-### Theme
-- `src/app/globals.css` - Complete dark theme with @theme directive
+### Hooks
+- `useAuth()` - Combined auth state and actions
+- `useProfile()` - Profile data and updates
+- `useAI()` - AI chat operations
+- `usePuter()` - Puter SDK instance
 
-### Auth
-- `src/lib/supabase/proxy.ts` - Session management
-- `proxy.ts` - Route protection
-
-### Types
-- `src/types/database.ts` - Supabase table types
-- `src/types/index.ts` - AI models, contacts, etc.
+### Stores
+- `useAuthStore` - Zustand store for auth state
+- `useSupabaseAuth()` - Supabase auth selector
+- `usePuterAuth()` - Puter auth selector
 
 ---
 
@@ -156,7 +206,7 @@ Execute the schema in Supabase SQL Editor:
 
 ---
 
-## Next Steps (Phase 2)
+## Next Steps (Phase 3)
 
 1. **Creator DNA Scanner** - Apify integration for Instagram scraping
 2. **Story Copy Generator** - AI-powered 14-day sequences
@@ -175,12 +225,16 @@ Execute the schema in Supabase SQL Editor:
 ### Next.js 16
 - Uses `proxy.ts` NOT `middleware.ts`
 - Export `proxy()` function (not `middleware()`)
-- Runs in Node.js runtime
+- `useSearchParams()` requires Suspense boundary
 
 ### Supabase Auth
 - Use `getUser()` for server-side validation
 - NOT `getSession()` (trusts client cookies)
 - RLS policies protect all tables
+
+### Environment URLs
+- **Never hardcode localhost** - contributors work from different environments
+- Always use `process.env.NEXT_PUBLIC_APP_URL`
 
 ---
 
@@ -189,8 +243,9 @@ Execute the schema in Supabase SQL Editor:
 - [INIT.MD](/INIT.MD) - Full project specification
 - [CLAUDE.md](/CLAUDE.md) - Memory and rules
 - [Brain Index](/docs/brain/_index.md) - Notes and learnings
+- [Phase 2 Complete](/docs/phases/PHASE-02-COMPLETE.md) - Auth implementation details
 - [Research Guide](/docs/research/RESEARCH-INTEGRATION-GUIDE.md) - Implementation mapping
 
 ---
 
-**Phase 1 Complete - Ready for Feature Development**
+**Phase 2 Complete - Authentication Ready for Feature Development**

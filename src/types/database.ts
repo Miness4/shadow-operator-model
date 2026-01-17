@@ -48,6 +48,7 @@ export interface Database {
           created_at?: string;
           updated_at?: string;
         };
+        Relationships: [];
       };
       creators: {
         Row: {
@@ -98,6 +99,7 @@ export interface Database {
           created_at?: string;
           updated_at?: string;
         };
+        Relationships: [];
       };
       creator_dna: {
         Row: {
@@ -148,6 +150,7 @@ export interface Database {
           created_at?: string;
           updated_at?: string;
         };
+        Relationships: [];
       };
       gameplans: {
         Row: {
@@ -192,6 +195,7 @@ export interface Database {
           created_at?: string;
           updated_at?: string;
         };
+        Relationships: [];
       };
       campaign_dna: {
         Row: {
@@ -236,6 +240,7 @@ export interface Database {
           created_at?: string;
           updated_at?: string;
         };
+        Relationships: [];
       };
       generations: {
         Row: {
@@ -274,6 +279,7 @@ export interface Database {
           rating?: number | null;
           created_at?: string;
         };
+        Relationships: [];
       };
       contacts: {
         Row: {
@@ -333,6 +339,7 @@ export interface Database {
           created_at?: string;
           updated_at?: string;
         };
+        Relationships: [];
       };
       interactions: {
         Row: {
@@ -362,6 +369,7 @@ export interface Database {
           metadata?: Json | null;
           created_at?: string;
         };
+        Relationships: [];
       };
       reminders: {
         Row: {
@@ -394,6 +402,7 @@ export interface Database {
           completed_at?: string | null;
           created_at?: string;
         };
+        Relationships: [];
       };
       niche_database: {
         Row: {
@@ -435,6 +444,7 @@ export interface Database {
           growth_trajectory?: string | null;
           created_at?: string;
         };
+        Relationships: [];
       };
     };
     Views: {
@@ -444,6 +454,9 @@ export interface Database {
       [_ in never]: never;
     };
     Enums: {
+      [_ in never]: never;
+    };
+    CompositeTypes: {
       [_ in never]: never;
     };
   };
